@@ -7880,17 +7880,6 @@
   mrnumber = {2266166 (2007j:76083)}
 }
 
-@article{TranVan2019,
-  title = {Coagulation-{{Fragmentation}} Equations with Multiplicative Coagulation Kernel and Constant Fragmentation Kernel},
-  author = {Tran, Hung V. and Van, Truong-Son},
-  date = {2019-10-29},
-  abstract = {We study a critical case of Coagulation-Fragmentation equations with multiplicative coagulation kernel and constant fragmentation kernel. Our method is based on the study of viscosity solutions to a new singular Hamilton-Jacobi equation, which results from applying the Bernstein transform to the original Coagulation-Fragmentation equation. Our results include wellposedness, regularity and long-time behaviors of viscosity solutions to the Hamilton-Jacobi equation in certain regimes, which have implications to wellposedness and long-time behaviors of \textbackslash{}emphmass-conserving solutions to the Coagulation-Fragmentation equation.},
-  archivePrefix = {arXiv},
-  eprint = {1910.13424v2},
-  eprinttype = {arxiv},
-  keywords = {35B65,35F21,35Q99,44A10,45J05,math.AP}
-}
-
 @thesis{Tsoukatos1999,
   title = {Heavy and Light Traffic Regimes for \${{M}}|{{G}}|\_\i{}nfty\$ Traffic Models},
   author = {Tsoukatos, K. P.},
@@ -8539,6 +8528,30 @@
   abstract    = {We consider Hamilton-Jacobi equations in one space dimension with Hamiltonians of the form $H(p,x,\omega) = G(p) + \beta V(x,\omega)$, where $V(\cdot,\omega)$ is a stationary and ergodic potential of unit amplitude. The homogenization of such equations is established in a 2016 paper of Armstrong, Tran and Yu for all continuous and coercive $G$. Under the extra condition that $G$ is a double-well function (i.e., it has precisely two local minima), we give a new and fully constructive proof of homogenization which yields a formula for the effective Hamiltonian $\overline H$. We use this formula to provide a complete list of the heights at which the graph of $\overline H$ has a flat piece. We illustrate our results by analyzing basic classes of examples, highlight some corollaries that clarify the dependence of $\overline H$ on $G$, $\beta$ and the law of $V(\cdot,\omega)$, and discuss a generalization to even-symmetric triple-well Hamiltonians.},
   file        = {:http\://arxiv.org/pdf/2007.07854v1:PDF;:/home/sonvan/Papers/Y/Yilmaz2020-StochasticHomogenizationHJDoubleWell.pdf:PDF},
   keywords    = {math.AP, math.PR, 35B27, 35F21, 60G10},
+}
+
+@Article{MitakeTranVan2020,
+  author      = {Hiroyoshi Mitake and Hung V. Tran and Truong-Son Van},
+  date        = {2020-04-28},
+  title       = {Large time behavior for a Hamilton-Jacobi equation in a critical Coagulation-Fragmentation model},
+  eprint      = {2004.13619v1},
+  eprintclass = {math.AP},
+  eprinttype  = {arXiv},
+  abstract    = {We study the large time behavior of the sublinear viscosity solution to a singular Hamilton-Jacobi equation that appears in a critical Coagulation-Fragmentation model with multiplicative coagulation and constant fragmentation kernels. Our results include complete characterizations of stationary solutions and optimal conditions to guarantee large time convergence. In particular, we obtain convergence results under certain natural conditions on the initial data, and a nonconvergence result when such conditions fail.},
+  file        = {:http\://arxiv.org/pdf/2004.13619v1:PDF},
+  keywords    = {math.AP, 35B40, 35D40, 35F21, 44A10, 45J05, 49L20, 49L25},
+}
+
+@Article{,
+  author      = {Hung V. Tran and Truong-Son Van},
+  date        = {2019-10-29},
+  title       = {Coagulation-Fragmentation equations with multiplicative coagulation kernel and constant fragmentation kernel},
+  eprint      = {1910.13424v3},
+  eprintclass = {math.AP},
+  eprinttype  = {arXiv},
+  abstract    = {We study a critical case of Coagulation-Fragmentation equations with multiplicative coagulation kernel and constant fragmentation kernel. Our method is based on the study of viscosity solutions to a new singular Hamilton-Jacobi equation, which results from applying the Bernstein transform to the original Coagulation-Fragmentation equation. Our results include wellposedness, regularity and long-time behaviors of viscosity solutions to the Hamilton-Jacobi equation in certain regimes, which have implications to wellposedness and long-time behaviors of \emph{mass-conserving} solutions to the Coagulation-Fragmentation equation.},
+  file        = {:http\://arxiv.org/pdf/1910.13424v3:PDF},
+  keywords    = {math.AP, 35B65, 35F21, 35Q99, 44A10, 45J05},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
