@@ -8555,6 +8555,34 @@
   keywords     = {math.AP, 35B65, 35F21, 35Q99, 44A10, 45J05},
 }
 
+@Article{DegondLiuPego2017,
+  author   = {Degond, Pierre and Liu, Jian-Guo and Pego, Robert L.},
+  title    = {Coagulation-fragmentation model for animal group-size statistics},
+  doi      = {10.1007/s00332-016-9336-3},
+  issn     = {0938-8974},
+  number   = {2},
+  pages    = {379--424},
+  volume   = {27},
+  journal  = {Journal of Nonlinear Science},
+  keywords = {92D50 (37L15 44A10 45J05)},
+  mrnumber = {3614760},
+  year     = {2017},
+}
+
+@Article{KasparRezakhanlou2016,
+  author   = {Kaspar, David C. and Rezakhanlou, Fraydoun},
+  title    = {Scalar conservation laws with monotone pure-jump {M}arkov initial conditions},
+  doi      = {10.1007/s00440-015-0648-2},
+  issn     = {0178-8051},
+  number   = {3-4},
+  pages    = {867--899},
+  volume   = {165},
+  journal  = {Probability Theory and Related Fields},
+  keywords = {60K35 (35L45 35L65 60J25 60J75)},
+  mrnumber = {3520021},
+  year     = {2016},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
