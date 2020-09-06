@@ -8544,8 +8544,8 @@
 
 @Article{TranVan2019,
   author       = {Hung V. Tran and Truong-Son Van},
-  date         = {2019-10-29},
-  journaltitle = {Communications on Pure and Applied Mathematics},
+  date         = {2020},
+  journaltitle = {Accepted to Communications on Pure and Applied Mathematics},
   title        = {Coagulation-Fragmentation equations with multiplicative coagulation kernel and constant fragmentation kernel},
   eprint       = {1910.13424v3},
   eprintclass  = {math.AP},
