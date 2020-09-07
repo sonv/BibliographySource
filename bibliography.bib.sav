@@ -8622,6 +8622,13 @@
   year      = {2000},
 }
 
+@Misc{FossRadu2019,
+  author    = {Foss, Mikil D and Radu, Petronela},
+  title     = {Bridging Local and Nonlocal Models: Convergence and Regularity},
+  publisher = {Springer International Publishing, Cham},
+  year      = {2019},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
