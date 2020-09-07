@@ -8666,6 +8666,33 @@
   year         = {2016},
 }
 
+@Article{FrieseckeWattis1994,
+  author   = {Friesecke, Gero and Wattis, Jonathan A. D.},
+  title    = {Existence theorem for solitary waves on lattices},
+  issn     = {0010-3616},
+  number   = {2},
+  pages    = {391--418},
+  volume   = {161},
+  journal  = {Communications in Mathematical Physics},
+  keywords = {35Q51 (35Q35)},
+  mrnumber = {1266490},
+  year     = {1994},
+}
+
+@Article{FrieseckePego1999,
+  author   = {Friesecke, G. and Pego, R. L.},
+  title    = {Solitary waves on {FPU} lattices. {I}. {Q}ualitative properties, renormalization and continuum limit},
+  doi      = {10.1088/0951-7715/12/6/311},
+  issn     = {0951-7715},
+  number   = {6},
+  pages    = {1601--1627},
+  volume   = {12},
+  journal  = {Nonlinearity},
+  keywords = {37K60 (35F20 35Q51 35Q53)},
+  mrnumber = {1726667},
+  year     = {1999},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
