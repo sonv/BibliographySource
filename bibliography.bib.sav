@@ -8597,6 +8597,20 @@
   year     = {2020},
 }
 
+@Article{DoeringTobasco2019,
+  author   = {Doering, Charles R. and Tobasco, Ian},
+  title    = {On the optimal design of wall-to-wall heat transport},
+  doi      = {10.1002/cpa.21832},
+  issn     = {0010-3640},
+  number   = {11},
+  pages    = {2385--2448},
+  volume   = {72},
+  journal  = {Communications on Pure and Applied Mathematics},
+  keywords = {76B75 (49J10 76F25 76R05 80A20)},
+  mrnumber = {4011863},
+  year     = {2019},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
