@@ -8650,7 +8650,7 @@
   title        = {Existence of solitary waves in one dimensional peridynamics},
 }
 
-@Article{SILLING2016121,
+@Article{Silling2016,
   author       = {S.A. Silling},
   date         = {2016},
   journaltitle = {Journal of the Mechanics and Physics of Solids},
@@ -8664,6 +8664,19 @@
   journal      = {Journal of the Mechanics and Physics of Solids},
   keywords     = {Solitary waves, Peridynamic, Nonlocal, Elasticity},
   year         = {2016},
+}
+
+@Article{FrieseckeWattis1994,
+  author   = {Friesecke, Gero and Wattis, Jonathan A. D.},
+  title    = {Existence theorem for solitary waves on lattices},
+  issn     = {0010-3616},
+  number   = {2},
+  pages    = {391--418},
+  volume   = {161},
+  journal  = {Communications in Mathematical Physics},
+  keywords = {35Q51 (35Q35)},
+  mrnumber = {1266490},
+  year     = {1994},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
