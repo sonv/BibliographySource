@@ -8629,6 +8629,24 @@
   year      = {2019},
 }
 
+@Article{RaduToundykovTrageser2017,
+  author   = {Radu, Petronela and Toundykov, Daniel and Trageser, Jeremy},
+  title    = {A nonlocal biharmonic operator and its connection with the classical analogue},
+  doi      = {10.1007/s00205-016-1047-2},
+  issn     = {0003-9527},
+  number   = {2},
+  pages    = {845--880},
+  volume   = {223},
+  journal  = {Archive for Rational Mechanics and Analysis},
+  keywords = {35R11 (74K20)},
+  mrnumber = {3590667},
+  year     = {2017},
+}
+
+@Article{,
+  author = {Robert Pego and Truong-Son Van},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
