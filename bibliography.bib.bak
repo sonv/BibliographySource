@@ -8693,6 +8693,20 @@
   year     = {1999},
 }
 
+@Article{FrieseckePego2002,
+  author   = {Friesecke, G. and Pego, R. L.},
+  title    = {Solitary waves on {FPU} lattices. {II}. {L}inear implies nonlinear stability},
+  doi      = {10.1088/0951-7715/15/4/317},
+  issn     = {0951-7715},
+  number   = {4},
+  pages    = {1343--1359},
+  volume   = {15},
+  journal  = {Nonlinearity},
+  keywords = {37K60 (35B35 35F20 35Q51 37K40 37K45)},
+  mrnumber = {1912298},
+  year     = {2002},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
