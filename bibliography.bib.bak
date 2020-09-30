@@ -8734,6 +8734,18 @@
   year      = {1996},
 }
 
+@Article{CaoCarrollMichalakis2017,
+  author    = {ChunJun Cao and Sean M. Carroll and Spyridon Michalakis},
+  title     = {Space from Hilbert space: Recovering geometry from bulk entanglement},
+  doi       = {10.1103/physrevd.95.024031},
+  number    = {2},
+  volume    = {95},
+  journal   = {Physical Review D},
+  month     = {jan},
+  publisher = {American Physical Society ({APS})},
+  year      = {2017},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
