@@ -8747,6 +8747,18 @@
   year      = {2017},
 }
 
+@Article{HerrmannMatthies2019,
+  author    = {Michael Herrmann and and Karsten Matthies and and and and},
+  title     = {Solitary waves in atomic chains and peridynamical media{\textdollar}{\^{}}{\textbackslash}dagger{\textdollar}},
+  doi       = {10.3934/mine.2019.2.281},
+  number    = {2},
+  pages     = {281--308},
+  volume    = {1},
+  journal   = {Mathematics in Engineering},
+  publisher = {American Institute of Mathematical Sciences ({AIMS})},
+  year      = {2019},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
