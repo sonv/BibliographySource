@@ -8759,6 +8759,13 @@
   year      = {2019},
 }
 
+@Article{IyerVan2020,
+  author       = {Gautam Iyer and Truong-Son Van},
+  date         = {2020},
+  journaltitle = {In preparation},
+  title        = {Bounds on the heat transfer rate via passive advection},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}

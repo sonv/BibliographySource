@@ -8748,8 +8748,8 @@
 }
 
 @Article{HerrmannMatthies2019,
-  author    = {Michael Herrmann and and Karsten Matthies and and and and},
-  title     = {Solitary waves in atomic chains and peridynamical media{\textdollar}{\^{}}{\textbackslash}dagger{\textdollar}},
+  author    = {Michael Herrmann and Karsten Matthies},
+  title     = {Solitary waves in atomic chains and peridynamical media},
   doi       = {10.3934/mine.2019.2.281},
   number    = {2},
   pages     = {281--308},
@@ -8757,6 +8757,13 @@
   journal   = {Mathematics in Engineering},
   publisher = {American Institute of Mathematical Sciences ({AIMS})},
   year      = {2019},
+}
+
+@Article{IyerVan,
+  author       = {Gautam Iyer and Truong-Son Van},
+  date         = {2020},
+  journaltitle = {In preparation},
+  title        = {Bounds on the heat transfer rate via passive advection},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
