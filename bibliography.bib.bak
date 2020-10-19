@@ -8817,6 +8817,20 @@
   year     = {2013},
 }
 
+@Article{PegdenSmart2020,
+  author   = {Pegden, Wesley and Smart, Charles K.},
+  title    = {Stability of patterns in the {A}belian sandpile},
+  doi      = {10.1007/s00023-020-00898-1},
+  issn     = {1424-0637},
+  number   = {4},
+  pages    = {1383--1399},
+  volume   = {21},
+  journal  = {Annales Henri Poincar\'{e}. A Journal of Theoretical and Mathematical Physics},
+  keywords = {28A99 (82B20)},
+  mrnumber = {4078284},
+  year     = {2020},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
