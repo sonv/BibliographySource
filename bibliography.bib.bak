@@ -8786,9 +8786,6 @@
   year     = {2016},
 }
 
-@Article{,
-}
-
 @Article{PegoVan2019,
   author   = {Pego, Robert L. and Van, Truong-Son},
   title    = {Existence of solitary waves in one dimensional peridynamics},
