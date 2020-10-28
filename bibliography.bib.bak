@@ -8828,6 +8828,20 @@
   year     = {2020},
 }
 
+@Article{CrandallLions1984,
+  author   = {Crandall, M. G. and Lions, P.-L.},
+  title    = {Two approximations of solutions of {H}amilton-{J}acobi equations},
+  doi      = {10.2307/2007396},
+  issn     = {0025-5718},
+  number   = {167},
+  pages    = {1--19},
+  volume   = {43},
+  journal  = {Mathematics of Computation},
+  keywords = {65M10 (35F20 49C10)},
+  mrnumber = {744921},
+  year     = {1984},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
