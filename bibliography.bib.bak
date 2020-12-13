@@ -8885,6 +8885,20 @@
   year     = {1984},
 }
 
+@Article{Lions1985,
+  author   = {Lions, P.-L.},
+  title    = {The concentration-compactness principle in the calculus of variations. {T}he limit case. {I}},
+  doi      = {10.4171/RMI/6},
+  issn     = {0213-2230},
+  number   = {1},
+  pages    = {145--201},
+  volume   = {1},
+  journal  = {Revista Matem\'{a}tica Iberoamericana},
+  keywords = {49A22 (58E30)},
+  mrnumber = {834360},
+  year     = {1985},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
