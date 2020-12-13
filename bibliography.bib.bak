@@ -8842,6 +8842,49 @@
   year     = {1984},
 }
 
+@Article{Morfe2020,
+  author   = {Morfe, Peter S.},
+  title    = {Convergence \& rates for {H}amilton-{J}acobi equations with {K}irchoff junction conditions},
+  doi      = {10.1007/s00030-020-0615-1},
+  issn     = {1021-9722},
+  number   = {1},
+  pages    = {Paper No. 10, 69},
+  volume   = {27},
+  journal  = {NoDEA. Nonlinear Differential Equations and Applications},
+  keywords = {35F21 (35F25)},
+  mrnumber = {4054876},
+  year     = {2020},
+}
+
+@Article{,
+}
+
+@Article{Lions1984,
+  author   = {Lions, P.-L.},
+  title    = {The concentration-compactness principle in the calculus of variations. {T}he locally compact case. {II}},
+  issn     = {0294-1449},
+  number   = {4},
+  pages    = {223--283},
+  volume   = {1},
+  journal  = {Annales de l'Institut Henri Poincar\'{e}. Analyse Non Lin\'{e}aire},
+  keywords = {49A50 (49A22)},
+  mrnumber = {778974},
+  year     = {1984},
+}
+
+@Article{Lions1984a,
+  author   = {Lions, P.-L.},
+  title    = {The concentration-compactness principle in the calculus of variations. {T}he locally compact case. {I}},
+  issn     = {0294-1449},
+  number   = {2},
+  pages    = {109--145},
+  volume   = {1},
+  journal  = {Annales de l'Institut Henri Poincar\'{e}. Analyse Non Lin\'{e}aire},
+  keywords = {49A50 (49A22)},
+  mrnumber = {778970},
+  year     = {1984},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
