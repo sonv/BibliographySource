@@ -8978,6 +8978,17 @@
   mrnumber     = {54814},
 }
 
+@Book{Mandl1968,
+  author    = {Mandl, Petr},
+  date      = {1968},
+  title     = {Analytical treatment of one-dimensional {M}arkov processes},
+  pages     = {xx+192},
+  publisher = {Academia Publishing House of the Czechoslovak Academy of Sciences, Prague; Springer-Verlag New York Inc., New York},
+  series    = {Die Grundlehren der mathematischen Wissenschaften, Band 151},
+  keywords  = {60.62},
+  mrnumber  = {0247667},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
