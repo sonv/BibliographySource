@@ -8912,6 +8912,72 @@
   year      = {1996},
 }
 
+@Book{Struwe2008,
+  author    = {Struwe, Michael},
+  title     = {Variational methods},
+  edition   = {Fourth},
+  isbn      = {978-3-540-74012-4},
+  note      = {Applications to nonlinear partial differential equations and Hamiltonian systems},
+  pages     = {xx+302},
+  publisher = {Springer-Verlag, Berlin},
+  series    = {Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge. A Series of Modern Surveys in Mathematics [Results in Mathematics and Related Areas. 3rd Series. A Series of Modern Surveys in Mathematics]},
+  volume    = {34},
+  keywords  = {49-02 (34C25 35A15 35F20 37J45 47J30 49J10 58E05)},
+  mrnumber  = {2431434},
+  year      = {2008},
+}
+
+@Article{Feller1952,
+  author       = {Feller, William},
+  date         = {1952},
+  journaltitle = {Annals of Mathematics. Second Series},
+  title        = {The parabolic differential equations and the associated semi-groups of transformations},
+  doi          = {10.2307/1969644},
+  issn         = {0003-486X},
+  pages        = {468--519},
+  volume       = {55},
+  keywords     = {36.0X},
+  mrnumber     = {47886},
+}
+
+@Article{Feller1957,
+  author       = {Feller, William},
+  date         = {1957},
+  journaltitle = {Illinois Journal of Mathematics},
+  title        = {Generalized second order differential operators and their lateral conditions},
+  issn         = {0019-2082},
+  pages        = {459--504},
+  volume       = {1},
+  keywords     = {34.0X},
+  mrnumber     = {92046},
+}
+
+@Article{Feller1954,
+  author       = {Feller, William},
+  date         = {1954},
+  journaltitle = {Transactions of the American Mathematical Society},
+  title        = {Diffusion processes in one dimension},
+  doi          = {10.2307/1990677},
+  issn         = {0002-9947},
+  pages        = {1--31},
+  volume       = {77},
+  keywords     = {60.0X},
+  mrnumber     = {63607},
+}
+
+@Article{Feller1951,
+  author       = {Feller, William},
+  date         = {1951},
+  journaltitle = {Annals of Mathematics. Second Series},
+  title        = {Two singular diffusion problems},
+  doi          = {10.2307/1969318},
+  issn         = {0003-486X},
+  pages        = {173--182},
+  volume       = {54},
+  keywords     = {36.0X},
+  mrnumber     = {54814},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
