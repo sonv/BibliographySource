@@ -109,7 +109,7 @@
   number       = {7},
   pages        = {902--922},
   volume       = {137},
-  file         = {:/home/sonvan/Downloads/1-s2.0-S0007449713000572-main.pdf:PDF},
+  file         = {:AlbeverioKorshunovaRozanova2013 - A Probabilistic Model Associated with the Pressureless Gas Dynamics.pdf:PDF},
   mrnumber     = {3116219},
   shortjournal = {Bull. Sci. Math.},
 }
@@ -522,14 +522,14 @@
   file         = {:BallMajumdar2010 - Nematic Liquid Crystals_ from Maier Saupe to a Continuum Theory.pdf:PDF},
 }
 
-@book{BallyCaramellinoCont2016,
-  title = {Stochastic {{Integration}} by {{Parts}} and {{Functional It\^o Calculus}}},
-  author = {Bally, Vlad and Caramellino, Lucia and Cont, Rama},
-  editor = {Utzet, Frederic and Vives, Josep},
-  date = {2016},
+@Book{BallyCaramellinoCont2016,
+  author    = {Bally, Vlad and Caramellino, Lucia and Cont, Rama},
+  date      = {2016},
+  title     = {Stochastic {{Integration}} by {{Parts}} and {{Functional It\^o Calculus}}},
+  doi       = {10.1007/978-3-319-27128-6},
+  editor    = {Utzet, Frederic and Vives, Josep},
   publisher = {{Springer International Publishing}},
-  doi = {10.1007/978-3-319-27128-6},
-  file = {files/717/Bally2016 - Stochastic Integration by Parts and Functional Ito Calculus.PDF}
+  file      = {:files/717/Bally2016 - Stochastic Integration by Parts and Functional Ito Calculus.PDF:},
 }
 
 @Article{BallZarnescu2011,
@@ -869,30 +869,6 @@
   title        = {On Some Expansions of Stable Distribution Functions},
   pages        = {375--378},
   volume       = {2},
-}
-
-@book{BerlineGetzlerVergne1992,
-  title = {Heat Kernels and {{Dirac}} Operators},
-  author = {Berline, Nicole and Getzler, Ezra and Vergne, Mich\`ele},
-  date = {1992},
-  volume = {298},
-  publisher = {{Springer-Verlag, Berlin}},
-  doi = {10.1007/978-3-642-58088-8},
-  isbn = {3-540-53340-0},
-  mrnumber = {1215720},
-  pagetotal = {viii+369},
-  series = {Grundlehren Der {{Mathematischen Wissenschaften}} [{{Fundamental Principles}} of {{Mathematical Sciences}}]}
-}
-
-@book{BerlineGetzlerVergne2004,
-  title = {Heat Kernels and {{Dirac}} Operators},
-  author = {Berline, Nicole and Getzler, Ezra and Vergne, Mich\`ele},
-  date = {2004},
-  publisher = {{Springer-Verlag, Berlin}},
-  isbn = {3-540-20062-2},
-  mrnumber = {2273508},
-  pagetotal = {x+363},
-  series = {Grundlehren {{Text Editions}}}
 }
 
 @book{Bertoin1996,
@@ -1507,16 +1483,16 @@
   shortjournal = {J. Stat. Phys.},
 }
 
-@article{CanizoLods2013,
-  title = {Exponential Convergence to Equilibrium for Subcritical Solutions of the {{Becker}}\textendash{{D\"oring}} Equations},
-  author = {Ca\~nizo, Jos\'e A. and Lods, Bertrand},
-  date = {2013-09},
+@Article{CanizoLods2013,
+  author       = {Ca\~nizo, Jos\'e A. and Lods, Bertrand},
+  date         = {2013-09},
   journaltitle = {Journal of Differential Equations},
-  volume = {255},
-  pages = {905--950},
-  doi = {10.1016/j.jde.2013.04.031},
-  file = {files/715/[CanizoLods2013]ExponentialConvergenceBeckerDoring.pdf},
-  number = {5}
+  title        = {Exponential Convergence to Equilibrium for Subcritical Solutions of the {{Becker}}\textendash{{D\"oring}} Equations},
+  doi          = {10.1016/j.jde.2013.04.031},
+  number       = {5},
+  pages        = {905--950},
+  volume       = {255},
+  file         = {:files/715/[CanizoLods2013]ExponentialConvergenceBeckerDoring.pdf:},
 }
 
 @Article{CanizoMischlerMouhot2009,
@@ -2031,19 +2007,19 @@
   shortjournal = {Comm. Pure Appl. Math.},
 }
 
-@article{ConstantinIyer2011,
-  title = {A Stochastic-{{Lagrangian}} Approach to the {{Navier}}-{{Stokes}} Equations in Domains with Boundary},
-  author = {Constantin, Peter and Iyer, Gautam},
-  date = {2011},
+@Article{ConstantinIyer2011,
+  author       = {Constantin, Peter and Iyer, Gautam},
+  date         = {2011},
   journaltitle = {The Annals of Applied Probability},
+  title        = {A Stochastic-{{Lagrangian}} Approach to the {{Navier}}-{{Stokes}} Equations in Domains with Boundary},
+  doi          = {10.1214/10-AAP731},
+  issn         = {1050-5164},
+  number       = {4},
+  pages        = {1466--1492},
+  volume       = {21},
+  file         = {:files/731/Constantin and Iyer - 2011 - A stochastic-Lagrangian approach to the Navier-Sto.pdf:},
+  mrnumber     = {2857454 (2012j:60180)},
   shortjournal = {Ann. Appl. Probab.},
-  volume = {21},
-  pages = {1466--1492},
-  issn = {1050-5164},
-  doi = {10.1214/10-AAP731},
-  file = {files/731/Constantin and Iyer - 2011 - A stochastic-Lagrangian approach to the Navier-Sto.pdf},
-  mrnumber = {2857454 (2012j:60180)},
-  number = {4}
 }
 
 @Article{ConstantinIyerWu2008,
@@ -2056,23 +2032,8 @@
   number       = {6},
   pages        = {2681--2692},
   volume       = {57},
-  file         = {:ConstantinIyerWu2008 - Global Regularity for a Modified Critical Dissipative Quasi Geostrophic Equation.pdf:PDF},
   mrnumber     = {2482996 (2009k:35120)},
   shortjournal = {Indiana Univ. Math. J.},
-}
-
-@Article{ConstantinKiselevRyzhikZlatovs2008,
-  author       = {Constantin, P. and Kiselev, A. and Ryzhik, L. and Zlato{\v s}, A.},
-  date         = {2008},
-  journaltitle = {Annals of Mathematics. Second Series},
-  title        = {Diffusion and Mixing in Fluid Flow},
-  doi          = {10.4007/annals.2008.168.643},
-  issn         = {0003-486X},
-  number       = {2},
-  pages        = {643--674},
-  volume       = {168},
-  mrnumber     = {2434887 (2009e:58045)},
-  shortjournal = {Ann. of Math. (2)},
 }
 
 @Article{ConstantinRamos2007,
@@ -2302,16 +2263,6 @@
   isbn = {3-540-50208-4 3-540-66099-2},
   mrnumber = {1064315 (91h:00004a)},
   pagetotal = {x+515}
-}
-
-@book{DautrayLions1990a,
-  title = {Mathematical Analysis and Numerical Methods for Science and Technology. {{Vol}}. 4},
-  author = {Dautray, Robert and Lions, Jacques-Louis},
-  date = {1990},
-  publisher = {{Springer-Verlag, Berlin}},
-  isbn = {3-540-50209-2 3-540-66100-X},
-  mrnumber = {1081946 (91h:00004b)},
-  pagetotal = {x+465}
 }
 
 @Article{DavisGartland1998,
@@ -3152,15 +3103,6 @@
   number = {4}
 }
 
-@book{Feller1966,
-  title = {An Introduction to Probability Theory and Its Applications. {{Vol}}. {{II}}},
-  author = {Feller, William},
-  date = {1966},
-  publisher = {{John Wiley \& Sons, Inc., New York-London-Sydney}},
-  mrnumber = {0210154 (35 \#1048)},
-  pagetotal = {xviii+636}
-}
-
 @book{Feller1971,
   title = {An Introduction to Probability Theory and Its Applications. {{Vol}}. {{II}}.},
   author = {Feller, W.},
@@ -3329,18 +3271,19 @@
   number = {4}
 }
 
-@book{FreidlinWentzell2012,
-  title = {Random Perturbations of Dynamical Systems},
-  author = {Freidlin, Mark I. and Wentzell, Alexander D.},
-  date = {2012},
-  edition = {Third},
-  volume = {260},
-  publisher = {{Springer, Heidelberg}},
-  doi = {10.1007/978-3-642-25847-3},
-  isbn = {978-3-642-25846-6},
-  mrnumber = {2953753},
+@Book{FreidlinWentzell2012,
+  author    = {Freidlin, Mark I. and Wentzell, Alexander D.},
+  date      = {2012},
+  title     = {Random Perturbations of Dynamical Systems},
+  doi       = {10.1007/978-3-642-25847-3},
+  edition   = {Third},
+  isbn      = {978-3-642-25846-6},
   pagetotal = {xxviii+458},
-  series = {Grundlehren Der {{Mathematischen Wissenschaften}} [{{Fundamental Principles}} of {{Mathematical Sciences}}]}
+  publisher = {{Springer, Heidelberg}},
+  series    = {Grundlehren Der {{Mathematischen Wissenschaften}} [{{Fundamental Principles}} of {{Mathematical Sciences}}]},
+  volume    = {260},
+  file      = {:FreidlinWentzell2012 - Random Perturbations of Dynamical Systems.pdf:PDF},
+  mrnumber  = {2953753},
 }
 
 @Article{Freextbackslashuidlin1964,
@@ -4165,18 +4108,19 @@
   shortjournal = {Nonlinearity},
 }
 
-@article{IyerKomorowskiNovikovRyzhik2014,
-  title = {From Homogenization to Averaging in Cellular Flows},
-  author = {Iyer, Gautam and Komorowski, Tomasz and Novikov, Alexei and Ryzhik, Lenya},
-  date = {2014},
+@Article{IyerKomorowskiNovikovRyzhik2014,
+  author       = {Iyer, Gautam and Komorowski, Tomasz and Novikov, Alexei and Ryzhik, Lenya},
+  date         = {2014},
   journaltitle = {Annales de l'Institut Henri Poincar\'e. Analyse Non Lin\'eaire},
+  title        = {From Homogenization to Averaging in Cellular Flows},
+  doi          = {10.1016/j.anihpc.2013.06.003},
+  issn         = {0294-1449},
+  number       = {5},
+  pages        = {957--983},
+  volume       = {31},
+  file         = {:IyerKomorowskiNovikovRyzhik2014 - From Homogenization to Averaging in Cellular Flows.pdf:PDF},
+  mrnumber     = {3258362},
   shortjournal = {Ann. Inst. H. Poincar\'e Anal. Non Lin\'eaire},
-  volume = {31},
-  pages = {957--983},
-  issn = {0294-1449},
-  doi = {10.1016/j.anihpc.2013.06.003},
-  mrnumber = {3258362},
-  number = {5}
 }
 
 @article{IyerLegerPego2015,
@@ -5394,12 +5338,13 @@
 }
 
 @Article{Laurenccot2019,
-  author       = {Lauren{\c c}ot, Philippe},
-  date         = {2019},
-  journaltitle = {arXiv:1901.08313 [math.AP]},
-  title        = {Mass-Conserving Solutions to Coagulation-Fragmentation Equations with Balanced Growth},
-  url          = {https://arxiv.org/abs/1901.08313},
-  file         = {:Laurenccot2019 - Mass Conserving Solutions to Coagulation Fragmentation Equations with Balanced Growth.pdf:PDF},
+  author      = {Lauren{\c c}ot, Philippe},
+  date        = {2019},
+  title       = {Mass-Conserving Solutions to Coagulation-Fragmentation Equations with Balanced Growth},
+  eprint      = {1901.08313},
+  eprintclass = {math.AP},
+  eprinttype  = {arxiv},
+  file        = {:Laurenccot2019 - Mass Conserving Solutions to Coagulation Fragmentation Equations with Balanced Growth.pdf:PDF},
 }
 
 @Article{Laurenccot2019a,
@@ -5438,7 +5383,7 @@
   number       = {1},
   pages        = {45--99},
   volume       = {162},
-  file         = {files/724/LaurencotMischler2002a - The Continuous Coagulation Fragmentation Equations with Diffusion.PDF},
+  file         = {:files/724/LaurencotMischler2002a - The Continuous Coagulation Fragmentation Equations with Diffusion.PDF:},
   keywords     = {35K57 (35B40 35D05 35F20 45K05 82C40)},
   mrnumber     = {1892231},
 }
@@ -5607,16 +5552,16 @@
   file         = {:Leyvraz2003 - Scaling Theory and Exactly Solved Models in the Kinetics of Irreversible Aggregation.pdf:PDF},
 }
 
-@article{Li1986,
-  title = {Large {{Time Behavior}} of the {{Heat Equation}} on {{Complete Manifolds}} with {{Non}}-{{Negative Ricci Curvature}}},
-  author = {Li, Peter},
-  date = {1986},
+@Article{Li1986,
+  author       = {Li, Peter},
+  date         = {1986},
   journaltitle = {Annals of Mathematics},
-  volume = {124},
-  pages = {1--21},
-  issn = {0003486X},
-  doi = {10.2307/1971385},
-  number = {1}
+  title        = {Large {{Time Behavior}} of the {{Heat Equation}} on {{Complete Manifolds}} with {{Non}}-{{Negative Ricci Curvature}}},
+  doi          = {10.2307/1971385},
+  issn         = {0003-486X},
+  number       = {1},
+  pages        = {1--21},
+  volume       = {124},
 }
 
 @Article{Li2000,
@@ -6093,21 +6038,6 @@
   file         = {:MajumdarZarnescu2010 - Landau De Gennes Theory of Nematic Liquid Crystals_ the Oseen Frank Limit and beyond.pdf:PDF},
   mrnumber     = {2601074 (2011g:82122)},
   shortjournal = {Arch. Ration. Mech. Anal.},
-}
-
-@Article{MarcotteDoeringThiffeaultYoung2018,
-  author       = {Marcotte, Florence and Doering, Charles R. and Thiffeault, Jean-Luc and Young, William R.},
-  date         = {2018},
-  journaltitle = {SIAM Journal on Applied Mathematics},
-  title        = {Optimal Heat Transfer and Optimal Exit Times},
-  doi          = {10.1137/17M1150220},
-  issn         = {0036-1399},
-  number       = {1},
-  pages        = {591--608},
-  volume       = {78},
-  file         = {:MarcotteDoeringThiffeaultYoung2018 - Optimal Heat Transfer and Optimal Exit Times.pdf:PDF},
-  mrnumber     = {3765928},
-  shortjournal = {SIAM J. Appl. Math.},
 }
 
 @book{Marcus1977,
@@ -6939,17 +6869,18 @@
   shortjournal = {J. Comput. Phys.},
 }
 
-@book{Pazy1983,
-  title = {Semigroups of Linear Operators and Applications to Partial Differential Equations},
-  author = {Pazy, A.},
-  date = {1983},
-  volume = {44},
-  publisher = {{Springer-Verlag, New York}},
-  doi = {10.1007/978-1-4612-5561-1},
-  isbn = {0-387-90845-5},
-  mrnumber = {710486 (85g:47061)},
+@Book{Pazy1983,
+  author    = {Pazy, A.},
+  date      = {1983},
+  title     = {Semigroups of Linear Operators and Applications to Partial Differential Equations},
+  doi       = {10.1007/978-1-4612-5561-1},
+  isbn      = {0-387-90845-5},
   pagetotal = {viii+279},
-  series = {Applied {{Mathematical Sciences}}}
+  publisher = {{Springer-Verlag, New York}},
+  series    = {Applied {{Mathematical Sciences}}},
+  volume    = {44},
+  file      = {:Pazy1983 - Semigroups of Linear Operators and Applications to Partial Differential Equations.pdf:PDF},
+  mrnumber  = {710486 (85g:47061)},
 }
 
 @article{Peetre1961,
@@ -7168,17 +7099,18 @@
   pagetotal = {xv+396}
 }
 
-@book{RenardyRogers2004,
-  title = {An Introduction to Partial Differential Equations},
-  author = {Renardy, Michael and Rogers, Robert C.},
-  date = {2004},
-  edition = {Second},
-  volume = {13},
-  publisher = {{Springer-Verlag, New York}},
-  isbn = {0-387-00444-0},
-  mrnumber = {2028503 (2004j:35001)},
+@Book{RenardyRogers2004,
+  author    = {Renardy, Michael and Rogers, Robert C.},
+  date      = {2004},
+  title     = {An Introduction to Partial Differential Equations},
+  edition   = {Second},
+  isbn      = {0-387-00444-0},
   pagetotal = {xiv+434},
-  series = {Texts in {{Applied Mathematics}}}
+  publisher = {{Springer-Verlag, New York}},
+  series    = {Texts in {{Applied Mathematics}}},
+  volume    = {13},
+  file      = {:RenardyRogers2004 - An Introduction to Partial Differential Equations.pdf:PDF},
+  mrnumber  = {2028503 (2004j:35001)},
 }
 
 @Article{Rezakhanlou2010,
@@ -7373,20 +7305,6 @@
   doi = {10.1137/0155046},
   mrnumber = {1331590 (96c:35138)},
   number = {3}
-}
-
-@Book{SchillingSongVondravcek2010,
-  author    = {Schilling, R. L. and Song, R. and Vondra{\v c}ek, Z.},
-  date      = {2010},
-  title     = {Bernstein Functions},
-  isbn      = {978-3-11-021530-4},
-  location  = {{Berlin}},
-  pagetotal = {xii+313},
-  publisher = {{Walter de Gruyter \& Co.}},
-  series    = {De {{Gruyter Studies}} in {{Mathematics}}},
-  volume    = {37},
-  file      = {:SchillingSongVondravcek2010 - Bernstein Functions.pdf:PDF},
-  mrnumber  = {2598208 (2011d:60060)},
 }
 
 @Book{SchillingSongVondravcek2012,
@@ -8708,21 +8626,6 @@
   year     = {2017},
 }
 
-@Article{MarcotteDoeringThiffeaultYoung2018a,
-  author   = {Marcotte, Florence and Doering, Charles R. and Thiffeault, Jean-Luc and Young, William R.},
-  title    = {Optimal heat transfer and optimal exit times},
-  doi      = {10.1137/17M1150220},
-  issn     = {0036-1399},
-  number   = {1},
-  pages    = {591--608},
-  volume   = {78},
-  file     = {:MarcotteDoeringThiffeaultYoung2018a - Optimal Heat Transfer and Optimal Exit Times.pdf:PDF},
-  journal  = {SIAM Journal on Applied Mathematics},
-  keywords = {80A20 (65K10)},
-  mrnumber = {3765928},
-  year     = {2018},
-}
-
 @Article{BeckWayne2009,
   author   = {Beck, Margaret and Wayne, C. Eugene},
   title    = {Using global invariant manifolds to understand metastability in the {B}urgers equation with small viscosity},
@@ -8942,7 +8845,7 @@
   date         = {2016},
   journaltitle = {Journal of the Mechanics and Physics of Solids},
   title        = {Solitary waves in a peridynamic elastic solid},
-  doi          = {https://doi.org/10.1016/j.jmps.2016.06.001},
+  doi          = {10.1016/j.jmps.2016.06.001},
   issn         = {0022-5096},
   pages        = {121 - 132},
   url          = {http://www.sciencedirect.com/science/article/pii/S0022509616302903},
@@ -9296,6 +9199,389 @@
   mrnumber  = {0247667},
 }
 
+@Article{ConstantinKiselevRyzhikZlatos2008,
+  author       = {Constantin, P. and Kiselev, A. and Ryzhik, L. and Zlato\v{s}, A.},
+  date         = {2008},
+  journaltitle = {Annals of Mathematics. Second Series},
+  title        = {Diffusion and mixing in fluid flow},
+  doi          = {10.4007/annals.2008.168.643},
+  issn         = {0003-486X},
+  number       = {2},
+  pages        = {643--674},
+  volume       = {168},
+  file         = {:ConstantinKiselevRyzhikZlatos2008 - Diffusion and Mixing in Fluid Flow.pdf:PDF},
+  keywords     = {58J65 (35Q35 60J60 76F25 76R50)},
+  mrnumber     = {2434887},
+}
+
+@Article{BarlesSouganidis1991,
+  author       = {Barles, G. and Souganidis, P. E.},
+  date         = {1991},
+  journaltitle = {Asymptotic Analysis},
+  title        = {Convergence of approximation schemes for fully nonlinear second order equations},
+  issn         = {0921-7134},
+  number       = {3},
+  pages        = {271--283},
+  volume       = {4},
+  keywords     = {35K55 (35A40 35J60 65M12)},
+  mrnumber     = {1115933},
+}
+
+@Article{MarcotteDoeringThiffeaultYoung2018,
+  author       = {Marcotte, Florence and Doering, Charles R. and Thiffeault, Jean-Luc and Young, William R.},
+  date         = {2018},
+  journaltitle = {SIAM Journal on Applied Mathematics},
+  title        = {Optimal Heat Transfer and Optimal Exit Times},
+  doi          = {10.1137/17M1150220},
+  issn         = {0036-1399},
+  number       = {1},
+  pages        = {591--608},
+  volume       = {78},
+  file         = {:MarcotteDoeringThiffeaultYoung2018 - Optimal Heat Transfer and Optimal Exit Times.pdf:PDF},
+  journal      = {SIAM Journal on Applied Mathematics},
+  keywords     = {80A20 (65K10)},
+  mrnumber     = {3765928},
+  shortjournal = {SIAM J. Appl. Math.},
+  year         = {2018},
+}
+
+@Book{BerlineGetzlerVergne2004,
+  author    = {Berline, Nicole and Getzler, Ezra and Vergne, Mich\`ele},
+  date      = {2004},
+  title     = {Heat kernels and {D}irac operators},
+  isbn      = {3-540-20062-2},
+  note      = {Corrected reprint of the 1992 original},
+  pages     = {x+363},
+  publisher = {Springer-Verlag, Berlin},
+  series    = {Grundlehren Text Editions},
+  keywords  = {58J35 (35K05 35Q40 47G30 58J60)},
+  mrnumber  = {2273508},
+}
+
+@Article{Robinson1995,
+  author       = {Robinson, James C.},
+  date         = {1995},
+  journaltitle = {Physics Letters. A},
+  title        = {A concise proof of the ``geometric'' construction of inertial manifolds},
+  doi          = {10.1016/0375-9601(95)00231-Q},
+  issn         = {0375-9601},
+  number       = {6},
+  pages        = {415--417},
+  volume       = {200},
+  file         = {:Robinson1995 - A Concise Proof of the ``geometric'' Construction of Inertial Manifolds.pdf:PDF},
+  keywords     = {34G20 (35B40 47H20 58F39)},
+  mrnumber     = {1330427},
+}
+
+@Article{Robinson2002,
+  author       = {Robinson, James C.},
+  date         = {2002},
+  journaltitle = {Discrete and Continuous Dynamical Systems. Series A},
+  title        = {Computing inertial manifolds},
+  doi          = {10.3934/dcds.2002.8.815},
+  issn         = {1078-0947},
+  number       = {4},
+  pages        = {815--833},
+  volume       = {8},
+  file         = {:Robinson2002 - Computing Inertial Manifolds.pdf:PDF},
+  keywords     = {37L25 (37L65 37M99 65L60)},
+  mrnumber     = {1920645},
+}
+
+@Book{Robinson2001,
+  author    = {Robinson, James C.},
+  date      = {2001},
+  title     = {Infinite-dimensional dynamical systems},
+  doi       = {10.1007/978-94-010-0732-0},
+  isbn      = {0-521-63204-8},
+  note      = {An introduction to dissipative parabolic PDEs and the theory of global attractors},
+  pages     = {xviii+461},
+  publisher = {Cambridge University Press, Cambridge},
+  series    = {Cambridge Texts in Applied Mathematics},
+  file      = {:Robinson2001 - Infinite Dimensional Dynamical Systems.djvu:Djvu},
+  keywords  = {37-02 (34G10 34L30 35B41 35K57 35Q30 37Lxx)},
+  mrnumber  = {1881888},
+}
+
+@Book{SellYou2002,
+  author    = {Sell, George R. and You, Yuncheng},
+  date      = {2002},
+  title     = {Dynamics of evolutionary equations},
+  doi       = {10.1007/978-1-4757-5037-9},
+  isbn      = {0-387-98347-3},
+  pages     = {xiv+670},
+  publisher = {Springer-Verlag, New York},
+  series    = {Applied Mathematical Sciences},
+  volume    = {143},
+  file      = {:SellYou2002 - Dynamics of Evolutionary Equations.pdf:PDF},
+  keywords  = {37-02 (34G20 35K55 35L70 35Q30 37L30 37Lxx)},
+  mrnumber  = {1873467},
+}
+
+@Book{Temam1997,
+  author    = {Temam, Roger},
+  date      = {1997},
+  title     = {Infinite-dimensional dynamical systems in mechanics and physics},
+  doi       = {10.1007/978-1-4612-0645-3},
+  edition   = {Second},
+  isbn      = {0-387-94866-X},
+  pages     = {xxii+648},
+  publisher = {Springer-Verlag, New York},
+  series    = {Applied Mathematical Sciences},
+  volume    = {68},
+  file      = {:Temam1997 - Infinite Dimensional Dynamical Systems in Mechanics and Physics.pdf:PDF},
+  keywords  = {58Fxx (34G20 35K55 35Q30 47H20 58D25 76D05)},
+  mrnumber  = {1441312},
+}
+
+@Article{FoiasSellTemam1988,
+  author       = {Foias, Ciprian and Sell, George R. and Temam, Roger},
+  date         = {1988},
+  journaltitle = {Journal of Differential Equations},
+  title        = {Inertial manifolds for nonlinear evolutionary equations},
+  doi          = {10.1016/0022-0396(88)90110-6},
+  issn         = {0022-0396},
+  number       = {2},
+  pages        = {309--353},
+  volume       = {73},
+  file         = {:FoiasSellTemam1988 - Inertial Manifolds for Nonlinear Evolutionary Equations.pdf:PDF},
+  keywords     = {58D25 (34C30 34G20 35B40 47H20 58D07 58F12)},
+  mrnumber     = {943945},
+}
+
+@Book{ConstantinFoiasNicolaenkoTemam1989,
+  author    = {Constantin, P. and Foias, C. and Nicolaenko, B. and Temam, R.},
+  date      = {1989},
+  title     = {Integral manifolds and inertial manifolds for dissipative partial differential equations},
+  doi       = {10.1007/978-1-4612-3506-4},
+  isbn      = {0-387-96729-X},
+  pages     = {x+123},
+  publisher = {Springer-Verlag, New York},
+  series    = {Applied Mathematical Sciences},
+  volume    = {70},
+  file      = {:ConstantinFoiasNicolaenkoTemam1989 - Integral Manifolds and Inertial Manifolds for Dissipative Partial Differential Equations.pdf:PDF},
+  keywords  = {35B40 (35K57 35Q20 58D25 58F12 58F14)},
+  mrnumber  = {966192},
+}
+
+@Article{Temam1990,
+  author       = {Temam, R.},
+  date         = {1990},
+  journaltitle = {The Mathematical Intelligencer},
+  title        = {Inertial manifolds},
+  doi          = {10.1007/BF03024036},
+  issn         = {0343-6993},
+  number       = {4},
+  pages        = {68--74},
+  volume       = {12},
+  file         = {:Temam1990 - Inertial Manifolds.pdf:PDF},
+  keywords     = {58F12 (34C35 34G20 47H20 76F20)},
+  mrnumber     = {1076537},
+}
+
+@Book{EngelNagel2000,
+  author    = {Engel, Klaus-Jochen and Nagel, Rainer},
+  date      = {2000},
+  title     = {One-parameter semigroups for linear evolution equations},
+  isbn      = {0-387-98463-1},
+  note      = {With contributions by S. Brendle, M. Campiti, T. Hahn, G. Metafune, G. Nickel, D. Pallara, C. Perazzoli, A. Rhandi, S. Romanelli and R. Schnaubelt},
+  pages     = {xxii+586},
+  publisher = {Springer-Verlag, New York},
+  series    = {Graduate Texts in Mathematics},
+  volume    = {194},
+  file      = {:EngelNagel2000 - One Parameter Semigroups for Linear Evolution Equations.pdf:PDF},
+  keywords  = {47D06 (34G10 35K90 47N20)},
+  mrnumber  = {1721989},
+}
+
+@InCollection{TabataSuzuki2002,
+  author    = {Tabata, Masahisa and Suzuki, Atsushi},
+  booktitle = {Mathematical modeling and numerical simulation in continuum mechanics ({Y}amaguchi, 2000)},
+  date      = {2002},
+  title     = {Mathematical modeling and numerical simulation of {E}arth's mantle convection},
+  doi       = {10.1007/978-3-642-56288-4_16},
+  pages     = {219--231},
+  publisher = {Springer, Berlin},
+  series    = {Lect. Notes Comput. Sci. Eng.},
+  volume    = {19},
+  file      = {:TabataSuzuki2002 - Mathematical Modeling and Numerical Simulation of Earth's Mantle Convection.pdf:PDF},
+  keywords  = {86A17},
+  mrnumber  = {1901669},
+}
+
+@Article{KorenagaJordan2003,
+  author       = {Jun Korenaga and Thomas H. Jordan},
+  date         = {2003-07},
+  journaltitle = {Journal of Geophysical Research: Solid Earth},
+  title        = {Physics of multiscale convection in Earth{\textquotesingle}s mantle: Onset of sublithospheric convection},
+  doi          = {10.1029/2002jb001760},
+  number       = {B7},
+  volume       = {108},
+  file         = {:KorenagaJordan2003 - Physics of Multiscale Convection in Earth_s Mantle_ Onset of Sublithospheric Convection.pdf:PDF},
+  publisher    = {American Geophysical Union ({AGU})},
+}
+
+@Article{GlaesslHiltZimmermann2011,
+  author       = {Martin Glässl and Markus Hilt and Walter Zimmermann},
+  date         = {2011-04},
+  journaltitle = {Physical Review E},
+  title        = {Convection in nanofluids with a particle-concentration-dependent thermal conductivity},
+  doi          = {10.1103/physreve.83.046315},
+  number       = {4},
+  pages        = {046315},
+  volume       = {83},
+  file         = {:GlaesslHiltZimmermann2011 - Convection in Nanofluids with a Particle Concentration Dependent Thermal Conductivity.pdf:PDF},
+  publisher    = {American Physical Society ({APS})},
+}
+
+@Article{YangVerziccoLohse2015,
+  author       = {Yantao Yang and Roberto Verzicco and Detlef Lohse},
+  date         = {2015-12},
+  journaltitle = {Proceedings of the National Academy of Sciences},
+  title        = {From convection rolls to finger convection in double-diffusive turbulence},
+  doi          = {10.1073/pnas.1518040113},
+  number       = {1},
+  pages        = {69--73},
+  volume       = {113},
+  file         = {:YangVerziccoLohse2015 - From Convection Rolls to Finger Convection in Double Diffusive Turbulence.pdf:PDF},
+  publisher    = {Proceedings of the National Academy of Sciences},
+}
+
+@Article{OstillaMonico2017,
+  author       = {R. Ostilla-M{\'{o}}nico},
+  date         = {2017-06},
+  journaltitle = {Journal of Fluid Mechanics},
+  title        = {Mixed thermal conditions in convection: how do continents affect the mantle's circulation?},
+  doi          = {10.1017/jfm.2017.247},
+  pages        = {1--4},
+  volume       = {822},
+  file         = {:OstillaMonico2017 - Mixed Thermal Conditions in Convection_ How Do Continents Affect the Mantle's Circulation_.pdf:PDF},
+  publisher    = {Cambridge University Press ({CUP})},
+}
+
+@Article{VallaghePatera2014,
+  author       = {Vallagh\'{e}, Sylvain and Patera, Anthony T.},
+  date         = {2014},
+  journaltitle = {SIAM Journal on Scientific Computing},
+  title        = {The static condensation reduced basis element method for a mixed-mean conjugate heat exchanger model},
+  doi          = {10.1137/120887709},
+  issn         = {1064-8275},
+  number       = {3},
+  pages        = {B294--B320},
+  volume       = {36},
+  file         = {:VallaghePatera2014 - The Static Condensation Reduced Basis Element Method for a Mixed Mean Conjugate Heat Exchanger Model.pdf:PDF},
+  keywords     = {65N30 (65N15 65N55 80A20)},
+  mrnumber     = {3200426},
+}
+
+@Article{QuMudawar2002,
+  author       = {Weilin Qu and Issam Mudawar},
+  date         = {2002-09},
+  journaltitle = {International Journal of Heat and Mass Transfer},
+  title        = {Analysis of three-dimensional heat transfer in micro-channel heat sinks},
+  doi          = {10.1016/s0017-9310(02)00101-1},
+  number       = {19},
+  pages        = {3973--3985},
+  volume       = {45},
+  publisher    = {Elsevier {BV}},
+}
+
+@Article{WeisbergBauZemel1992,
+  author       = {Arel Weisberg and Haim H. Bau and J.N. Zemel},
+  date         = {1992-10},
+  journaltitle = {International Journal of Heat and Mass Transfer},
+  title        = {Analysis of microchannels for integrated cooling},
+  doi          = {10.1016/0017-9310(92)90089-b},
+  number       = {10},
+  pages        = {2465--2474},
+  volume       = {35},
+  publisher    = {Elsevier {BV}},
+}
+
+@Article{SheikholeslamiHaqShafeeLiElarakiTlili2019,
+  author       = {M. Sheikholeslami and Rizwan-ul Haq and Ahmad Shafee and Zhixiong Li and Yassir G. Elaraki and I. Tlili},
+  date         = {2019-06},
+  journaltitle = {International Journal of Heat and Mass Transfer},
+  title        = {Heat transfer simulation of heat storage unit with nanoparticles and fins through a heat exchanger},
+  doi          = {10.1016/j.ijheatmasstransfer.2019.02.003},
+  pages        = {470--478},
+  volume       = {135},
+  publisher    = {Elsevier {BV}},
+}
+
+@Article{AlamKim2018,
+  author       = {Tabish Alam and Man-Hoe Kim},
+  date         = {2018-01},
+  journaltitle = {Renewable and Sustainable Energy Reviews},
+  title        = {A comprehensive review on single phase heat transfer enhancement techniques in heat exchanger applications},
+  doi          = {10.1016/j.rser.2017.08.060},
+  pages        = {813--839},
+  volume       = {81},
+  publisher    = {Elsevier {BV}},
+}
+
+@Article{MoradikazerouniAfrandAlsarrafWongwisesAsadiNguyen2019,
+  author       = {Alireza Moradikazerouni and Masoud Afrand and Jalal Alsarraf and Somchai Wongwises and Amin Asadi and Truong Khang Nguyen},
+  date         = {2019-05},
+  journaltitle = {International Journal of Heat and Mass Transfer},
+  title        = {Investigation of a computer {CPU} heat sink under laminar forced convection using a structural stability method},
+  doi          = {10.1016/j.ijheatmasstransfer.2019.02.029},
+  pages        = {1218--1226},
+  volume       = {134},
+  publisher    = {Elsevier {BV}},
+}
+
+@Article{WangWangZhuLiHeLiu2018,
+  author       = {Yabo Wang and Bin Wang and Kai Zhu and Hailong Li and Wei He and Shengchun Liu},
+  date         = {2018-10},
+  journaltitle = {Applied Thermal Engineering},
+  title        = {Energy saving potential of using heat pipes for {CPU} cooling},
+  doi          = {10.1016/j.applthermaleng.2018.07.132},
+  pages        = {630--638},
+  volume       = {143},
+  publisher    = {Elsevier {BV}},
+}
+
+@Article{DoeringOttoReznikoff2006,
+  author       = {Doering, Charles R. and Otto, Felix and Reznikoff, Maria G.},
+  date         = {2006},
+  journaltitle = {Journal of Fluid Mechanics},
+  title        = {Bounds on vertical heat transport for infinite-{P}randtl-number {R}ayleigh-{B}\'{e}nard convection},
+  doi          = {10.1017/S0022112006000097},
+  issn         = {0022-1120},
+  pages        = {229--241},
+  volume       = {560},
+  file         = {:DoeringOttoReznikoff2006 - Bounds on Vertical Heat Transport for Infinite Prandtl Number Rayleigh Benard Convection.pdf:PDF},
+  keywords     = {76R10 (76E06 80A20)},
+  mrnumber     = {2265709},
+}
+
+@Article{Kadanoff2001,
+  author       = {Leo P. Kadanoff},
+  date         = {2001-08},
+  journaltitle = {Physics Today},
+  title        = {Turbulent Heat Flow: Structures and Scaling},
+  doi          = {10.1063/1.1404847},
+  number       = {8},
+  pages        = {34--39},
+  volume       = {54},
+  publisher    = {{AIP} Publishing},
+}
+
+@Article{Rayleigh1916,
+  author       = {Lord Rayleigh},
+  date         = {1916-12},
+  journaltitle = {The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science},
+  title        = {{LIX}. On convection currents in a horizontal layer of fluid, when the higher temperature is on the under side},
+  doi          = {10.1080/14786441608635602},
+  number       = {192},
+  pages        = {529--546},
+  volume       = {32},
+  publisher    = {Informa {UK} Limited},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: fileDirectory:/home/sonvan/Work/BibliographySource;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
