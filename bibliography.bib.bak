@@ -9577,7 +9577,14 @@
   number       = {192},
   pages        = {529--546},
   volume       = {32},
+  file         = {:Rayleigh1916 - LIX. on Convection Currents in a Horizontal Layer of Fluid, When the Higher Temperature Is on the under Side.pdf:PDF},
   publisher    = {Informa {UK} Limited},
+}
+
+@WWW{OConnorRobertson,
+  author = {J J O'Connor and E F Robertson},
+  title  = {Leonardo da Vinci},
+  url    = {https://mathshistory.st-andrews.ac.uk/Biographies/Leonardo/quotations/},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
