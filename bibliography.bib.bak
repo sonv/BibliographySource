@@ -9583,8 +9583,24 @@
 
 @WWW{OConnorRobertson,
   author = {J J O'Connor and E F Robertson},
+  editor = {MacTutor History of Mathematics Archive},
   title  = {Leonardo da Vinci},
   url    = {https://mathshistory.st-andrews.ac.uk/Biographies/Leonardo/quotations/},
+}
+
+@Article{OttoReznikoff2007,
+  author       = {Otto, Felix and Reznikoff, Maria G.},
+  date         = {2007},
+  journaltitle = {Journal of Differential Equations},
+  title        = {Slow motion of gradient flows},
+  doi          = {10.1016/j.jde.2007.03.007},
+  issn         = {0022-0396},
+  number       = {2},
+  pages        = {372--420},
+  volume       = {237},
+  file         = {:/home/sonvan/Downloads/1-s2.0-S0022039607000824-main.pdf:PDF},
+  keywords     = {35K55 (37L05 37L15)},
+  mrnumber     = {2330952},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
