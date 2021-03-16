@@ -230,16 +230,16 @@
   series = {Lecture {{Notes}} in {{Math}}.}
 }
 
-@article{AmbrosioLecumberryManiglia2005,
-  title = {Lipschitz Regularity and Approximate Differentiability of the {{DiPerna}}-{{Lions}} Flow},
-  author = {Ambrosio, Luigi and Lecumberry, Myriam and Maniglia, Stefania},
-  date = {2005},
+@Article{AmbrosioLecumberryManiglia2005,
+  author       = {Ambrosio, Luigi and Lecumberry, Myriam and Maniglia, Stefania},
+  date         = {2005},
   journaltitle = {Rendiconti del Seminario Matematico della Universit\`a di Padova. The Mathematical Journal of the University of Padova},
+  title        = {Lipschitz Regularity and Approximate Differentiability of the {{DiPerna}}-{{Lions}} Flow},
+  issn         = {0041-8994},
+  pages        = {29--502006},
+  volume       = {114},
+  mrnumber     = {2207860 (2007b:26015)},
   shortjournal = {Rend. Sem. Mat. Univ. Padova},
-  volume = {114},
-  pages = {29--50 (2006)},
-  issn = {0041-8994},
-  mrnumber = {2207860 (2007b:26015)}
 }
 
 @Article{AnkerJi1999,
@@ -2852,18 +2852,19 @@
   mrnumber  = {2597943},
 }
 
-@article{EvansIshii1985,
-  title = {A {{PDE}} Approach to Some Asymptotic Problems Concerning Random Differential Equations with Small Noise Intensities},
-  author = {Evans, L. C. and Ishii, H.},
-  date = {1985},
+@Article{EvansIshii1985,
+  author       = {Evans, L. C. and Ishii, H.},
+  date         = {1985},
   journaltitle = {Annales de l'Institut Henri Poincar\'e. Analyse Non Lin\'eaire},
+  title        = {A {{PDE}} Approach to Some Asymptotic Problems Concerning Random Differential Equations with Small Noise Intensities},
+  issn         = {0294-1449},
+  number       = {1},
+  pages        = {1--20},
+  url          = {http://www.numdam.org/item?id=AIHPC_1985__2_1_1_0},
+  volume       = {2},
+  file         = {:EvansIshii1985 - A PDE Approach to Some Asymptotic Problems Concerning Random Differential Equations with Small Noise Intensities.pdf:PDF},
+  mrnumber     = {781589},
   shortjournal = {Ann. Inst. H. Poincar\'e Anal. Non Lin\'eaire},
-  volume = {2},
-  pages = {1--20},
-  issn = {0294-1449},
-  url = {http://www.numdam.org/item?id=AIHPC_1985__2_1_1_0},
-  mrnumber = {781589},
-  number = {1}
 }
 
 @Article{Eyink2007,
@@ -9603,8 +9604,107 @@
   mrnumber     = {2330952},
 }
 
+@Article{DaviniIshiiIturriagaMorgado2020,
+  author      = {Andrea Davini and Hitoshi Ishii and Renato Iturriaga and Hector Sanchez Morgado},
+  date        = {2020-02-16},
+  title       = {Discrete approximation of the viscous HJ equation},
+  eprint      = {2002.06674},
+  eprintclass = {math.AP},
+  eprinttype  = {arXiv},
+  abstract    = {We consider a stochastic discretization of the stationary viscous Hamilton Jacobi equation on the flat d dimensional torus, associated with a Hamiltonian, convex and superlinear in the momentum variable. We show that each discrete problem admits a unique continuous solution on the torus, up to additive constants. By additionally assuming a technical condition on the associated Lagrangian, we show that each solution of the viscous Hamilton Jacobi equation is the limit of solutions of the discrete problems, as the discretization step goes to zero.},
+  file        = {:http\://arxiv.org/pdf/2002.06674v1:PDF},
+  keywords    = {math.AP, 45D40, 65K10},
+}
+
+@Article{EskenazisNayarTkocz2018,
+  author       = {Eskenazis, Alexandros and Nayar, Piotr and Tkocz, Tomasz},
+  date         = {2018},
+  journaltitle = {The Annals of Probability},
+  title        = {Gaussian mixtures: entropy and geometric inequalities},
+  doi          = {10.1214/17-AOP1242},
+  issn         = {0091-1798},
+  number       = {5},
+  pages        = {2908--2945},
+  volume       = {46},
+  file         = {:EskenazisNayarTkocz2018 - Gaussian Mixtures_ Entropy and Geometric Inequalities.pdf:PDF},
+  keywords     = {60E15 (52A20 52A40 60G15 94A17)},
+  mrnumber     = {3846841},
+}
+
+@Article{BerntonGhosalNutz2021,
+  author      = {Espen Bernton and Promit Ghosal and Marcel Nutz},
+  date        = {2021-02-08},
+  title       = {Entropic Optimal Transport: Geometry and Large Deviations},
+  eprint      = {2102.04397},
+  eprintclass = {math.OC},
+  eprinttype  = {arXiv},
+  abstract    = {We study the convergence of entropically regularized optimal transport to optimal transport. The main result is concerned with the convergence of the associated optimizers and takes the form of a large deviations principle quantifying the local exponential convergence rate as the regularization parameter vanishes. The exact rate function is determined in a general setting and linked to the Kantorovich potential of optimal transport. Our arguments are based on the geometry of the optimizers and inspired by the use of $c$-cyclical monotonicity in classical transport theory. The results can also be phrased in terms of Schr\"odinger bridges.},
+  file        = {:BerntonGhosalNutz2021 - Entropic Optimal Transport_ Geometry and Large Deviations.pdf:PDF},
+  keywords    = {math.OC, math.FA, math.PR, 90C25, 60F10, 49N05},
+}
+
+@Article{FlemingSouganidis1986,
+  author       = {Fleming, Wendell H. and Souganidis, Panagiotis E.},
+  date         = {1986},
+  journaltitle = {Annali della Scuola Normale Superiore di Pisa. Classe di Scienze. Serie IV},
+  title        = {P{DE}-viscosity solution approach to some problems of large deviations},
+  issn         = {0391-173X},
+  number       = {2},
+  pages        = {171--192},
+  volume       = {13},
+  file         = {:FlemingSouganidis1986 - PDE Viscosity Solution Approach to Some Problems of Large Deviations.pdf:PDF},
+  keywords     = {35F20 (49C20 93E03)},
+  mrnumber     = {876121},
+}
+
+@Article{BarlesPerthame1988,
+  author       = {Barles, G. and Perthame, B.},
+  date         = {1988},
+  journaltitle = {SIAM Journal on Control and Optimization},
+  title        = {Exit time problems in optimal control and vanishing viscosity method},
+  doi          = {10.1137/0326063},
+  issn         = {0363-0129},
+  number       = {5},
+  pages        = {1133--1148},
+  volume       = {26},
+  file         = {:BarlesPerthame1988 - Exit Time Problems in Optimal Control and Vanishing Viscosity Method.pdf:PDF},
+  keywords     = {49C20 (35B37 35F20)},
+  mrnumber     = {957658},
+}
+
+@Article{FlemingJames1992,
+  author       = {Fleming, W. H. and James, M. R.},
+  date         = {1992},
+  journaltitle = {The Annals of Probability},
+  title        = {Asymptotic series and exit time probabilities},
+  issn         = {0091-1798},
+  number       = {3},
+  pages        = {1369--1384},
+  volume       = {20},
+  file         = {:FlemingJames1992 - Asymptotic Series and Exit Time Probabilities.pdf:PDF},
+  keywords     = {60F10 (35Q99 35R60 60J60)},
+  mrnumber     = {1175266},
+}
+
+@Article{FlemingTsai1981,
+  author       = {Fleming, Wendell H. and Tsai, Chun Ping},
+  date         = {1981},
+  journaltitle = {Applied Mathematics and Optimization},
+  title        = {Optimal exit probabilities and differential games},
+  doi          = {10.1007/BF01442120},
+  issn         = {0095-4616},
+  number       = {3},
+  pages        = {253--282},
+  volume       = {7},
+  file         = {:FlemingTsai1981 - Optimal Exit Probabilities and Differential Games.pdf:PDF},
+  keywords     = {93E20 (60H10)},
+  mrnumber     = {635802},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: fileDirectory:/home/sonvan/Work/BibliographySource;}
 
 @Comment{jabref-meta: keypatterndefault:[authors][year];}
+
+@Comment{jabref-meta: protectedFlag:true;}
