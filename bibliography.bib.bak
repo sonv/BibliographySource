@@ -8045,11 +8045,11 @@
   shortjournal = {Stochastics Stochastics Rep.},
 }
 
-@book{Tran2019,
-  title = {Hamilton\textendash{{Jacobi}} Equations: Viscosity Solutions and Applications},
-  author = {Tran, Hung V.},
-  date = {2019},
-  url = {http://math.wisc.edu/ hung/HJ%20equations-viscosity%20solutions%20and%20applications-v2.pdf}
+@Book{Tran2019,
+  author    = {Tran, Hung V.},
+  date      = {2021},
+  title     = {Hamilton--Jacobi equations: theory and applications},
+  publisher = {AMS Graduate Studies in Mathematics},
 }
 
 @Article{TranDritschel2006,
