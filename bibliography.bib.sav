@@ -9715,6 +9715,19 @@
   mrnumber     = {1118699},
 }
 
+@Book{Katzourakis2015,
+  author    = {Katzourakis, Nikos},
+  date      = {2015},
+  title     = {An introduction to viscosity solutions for fully nonlinear {PDE} with applications to calculus of variations in {$L^\infty$}},
+  doi       = {10.1007/978-3-319-12829-0},
+  isbn      = {978-3-319-12828-3; 978-3-319-12829-0},
+  pages     = {xii+123},
+  publisher = {Springer, Cham},
+  series    = {SpringerBriefs in Mathematics},
+  keywords  = {35-01 (35D40 35F20 35J60 49L25)},
+  mrnumber  = {3289084},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: fileDirectory:/home/sonvan/Work/BibliographySource;}
