@@ -6245,21 +6245,6 @@
   shortjournal = {SIAM J. Math. Anal.},
 }
 
-@Article{MenonPego2006,
-  author       = {Menon, Govind and Pego, Robert L.},
-  date         = {2006},
-  journaltitle = {SIAM Review},
-  title        = {Dynamical Scaling in {{Smoluchowski}}'s Coagulation Equations: Uniform Convergence},
-  doi          = {10.1137/060662496},
-  issn         = {0036-1445},
-  number       = {4},
-  pages        = {745--768},
-  volume       = {48},
-  file         = {:MenonPego2006 - Dynamical Scaling in Smoluchowski's Coagulation Equations_ Uniform Convergence.pdf:PDF},
-  mrnumber     = {2278448},
-  shortjournal = {SIAM Rev.},
-}
-
 @Article{MenonPego2007,
   author       = {Menon, Govind and Pego, Robert L.},
   date         = {2007},
@@ -6270,7 +6255,7 @@
   number       = {1},
   pages        = {177--202},
   volume       = {273},
-  file         = {:MenonPego2007 - Universality Classes in Burgers Turbulence.pdf:PDF},
+  file         = {:Menon-Pego2007_Article_UniversalityClassesInBurgersTu.pdf:PDF},
   mrnumber     = {2308754},
   shortjournal = {Comm. Math. Phys.},
 }
@@ -7714,21 +7699,6 @@
   number = {6}
 }
 
-@Article{Srinivasan2011,
-  author       = {Srinivasan, Ravi},
-  date         = {2011},
-  journaltitle = {SIAM Journal on Mathematical Analysis},
-  title        = {Rates of Convergence for {{Smoluchowski}}'s Coagulation Equations},
-  doi          = {10.1137/090759707},
-  issn         = {0036-1410},
-  number       = {4},
-  pages        = {1835--1854},
-  volume       = {43},
-  file         = {:Srinivasan2011 - Rates of Convergence for Smoluchowski's Coagulation Equations.pdf:PDF},
-  mrnumber     = {2831250},
-  shortjournal = {SIAM J. Math. Anal.},
-}
-
 @Article{StarkFoufoulaGeorgiouGanti2009,
   author       = {Stark, Colin P. and Foufoula-Georgiou, Efi and Ganti, Vamsi},
   date         = {2009-03-07},
@@ -8045,10 +8015,11 @@
   shortjournal = {Stochastics Stochastics Rep.},
 }
 
-@Book{Tran2019,
-  author = {Tran, Hung V.},
-  date   = {2019},
-  title  = {Hamilton--Jacobi equations: theory and applications},
+@Book{Tran2021,
+  author    = {Tran, Hung V.},
+  date      = {2021},
+  title     = {Hamilton--Jacobi equations: theory and applications},
+  publisher = {AMS Graduate Studies in Mathematics},
 }
 
 @Article{TranDritschel2006,
@@ -9725,6 +9696,21 @@
   series    = {SpringerBriefs in Mathematics},
   keywords  = {35-01 (35D40 35F20 35J60 49L25)},
   mrnumber  = {3289084},
+}
+
+@Article{MR2831250,
+  author       = {Srinivasan, Ravi},
+  date         = {2011},
+  journaltitle = {SIAM Journal on Mathematical Analysis},
+  title        = {Rates of convergence for {S}moluchowski's coagulation equations},
+  doi          = {10.1137/090759707},
+  issn         = {0036-1410},
+  number       = {4},
+  pages        = {1835--1854},
+  volume       = {43},
+  file         = {:MR2831250 - Rates of Convergence for Smoluchowski's Coagulation Equations.pdf:PDF},
+  keywords     = {45K05 (35C06 35R09 45M05 82C28)},
+  mrnumber     = {2831250},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

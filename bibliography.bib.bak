@@ -6245,21 +6245,6 @@
   shortjournal = {SIAM J. Math. Anal.},
 }
 
-@Article{MenonPego2006,
-  author       = {Menon, Govind and Pego, Robert L.},
-  date         = {2006},
-  journaltitle = {SIAM Review},
-  title        = {Dynamical Scaling in {{Smoluchowski}}'s Coagulation Equations: Uniform Convergence},
-  doi          = {10.1137/060662496},
-  issn         = {0036-1445},
-  number       = {4},
-  pages        = {745--768},
-  volume       = {48},
-  file         = {:MenonPego2006 - Dynamical Scaling in Smoluchowski's Coagulation Equations_ Uniform Convergence.pdf:PDF},
-  mrnumber     = {2278448},
-  shortjournal = {SIAM Rev.},
-}
-
 @Article{MenonPego2007,
   author       = {Menon, Govind and Pego, Robert L.},
   date         = {2007},
@@ -6270,7 +6255,7 @@
   number       = {1},
   pages        = {177--202},
   volume       = {273},
-  file         = {:MenonPego2007 - Universality Classes in Burgers Turbulence.pdf:PDF},
+  file         = {:Menon-Pego2007_Article_UniversalityClassesInBurgersTu.pdf:PDF},
   mrnumber     = {2308754},
   shortjournal = {Comm. Math. Phys.},
 }
@@ -8045,7 +8030,7 @@
   shortjournal = {Stochastics Stochastics Rep.},
 }
 
-@Book{Tran2019,
+@Book{Tran2021,
   author    = {Tran, Hung V.},
   date      = {2021},
   title     = {Hamilton--Jacobi equations: theory and applications},
