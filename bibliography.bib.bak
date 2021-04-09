@@ -8705,7 +8705,7 @@
   keywords     = {math.AP, 35B40, 35D40, 35F21, 44A10, 45J05, 49L20, 49L25},
 }
 
-@Article{TranVan2019,
+@Article{TranVan2021,
   author       = {Hung V. Tran and Truong-Son Van},
   date         = {2021},
   journaltitle = {Communications on Pure and Applied Mathematics},
@@ -9799,6 +9799,20 @@
   date         = {2021},
   journaltitle = {In Progress},
   title        = {On the dynamics of Multiplicative-Additive Coagulation-Fragmentation equations},
+}
+
+@Book{BardiCapuzzoDolcetta1997,
+  author    = {Bardi, Martino and Capuzzo-Dolcetta, Italo},
+  date      = {1997},
+  title     = {Optimal control and viscosity solutions of {H}amilton-{J}acobi-{B}ellman equations},
+  doi       = {10.1007/978-0-8176-4755-1},
+  isbn      = {0-8176-3640-4},
+  note      = {With appendices by Maurizio Falcone and Pierpaolo Soravia},
+  pages     = {xviii+570},
+  publisher = {Birkh\"{a}user Boston, Inc., Boston, MA},
+  series    = {Systems \& Control: Foundations \& Applications},
+  keywords  = {49-02 (49J15 49K15 49L25)},
+  mrnumber  = {1484411},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
