@@ -8692,7 +8692,7 @@
   keywords    = {math.AP, math.PR, 35B27, 35F21, 60G10},
 }
 
-@Article{MitakeTranVan2020,
+@Article{MitakeTranVan2021,
   author       = {Hiroyoshi Mitake and Hung V. Tran and Truong-Son Van},
   date         = {2021},
   journaltitle = {Communications in Mathematical Sciences},

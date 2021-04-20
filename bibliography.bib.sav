@@ -8692,9 +8692,9 @@
   keywords    = {math.AP, math.PR, 35B27, 35F21, 60G10},
 }
 
-@Article{MitakeTranVan2020,
+@Article{MitakeTranVan2021,
   author       = {Hiroyoshi Mitake and Hung V. Tran and Truong-Son Van},
-  date         = {2020-04-28},
+  date         = {2021},
   journaltitle = {Communications in Mathematical Sciences},
   title        = {Large time behavior for a Hamilton-Jacobi equation in a critical Coagulation-Fragmentation model},
   doi          = {10.4310/CMS.2021.v19.n2.a8},
