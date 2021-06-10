@@ -13285,4 +13285,16 @@
   mrreviewer   = {Violaine Roussier-Michon},
 }
 
+@Article{IyerVan2021,
+  author      = {Gautam Iyer and Truong-Son Van},
+  date        = {2021-01-25},
+  title       = {Bounds on the heat transfer rate via passive advection},
+  eprint      = {2101.10287},
+  eprintclass = {math.AP},
+  eprinttype  = {arXiv},
+  abstract    = {In heat exchangers, an incompressible fluid is heated initially and cooled at the boundary. The goal is to transfer the heat to the boundary as efficiently as possible. In this paper we study a related steady version of this problem where a steadily stirred fluid is uniformly heated in the interior and cooled on the boundary. For a given large P\'eclet number, how should one stir to minimize some norm of the temperature? This version of the problem was previously studied by Marcotte, Doering et\ al.\ (SIAM Appl.\ Math '18) in a disk, where the authors used matched asymptotics to show that when the P\'eclet number, $\mathrm{Pe}$, is sufficiently large one can stir the fluid in a manner that ensures the total heat is $O(1/\mathrm{Pe})$. In this paper we confirm their results with rigorous proofs, and also provide an almost matching lower bound. For simplicity, we work on the infinite strip instead of the unit disk and the proof uses probabilistic techniques.},
+  file        = {:http\://arxiv.org/pdf/2101.10287v2:PDF},
+  keywords    = {math.AP, math.PR},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
