@@ -8922,13 +8922,6 @@
   year      = {2019},
 }
 
-@Article{IyerVan2020,
-  author       = {Gautam Iyer and Truong-Son Van},
-  date         = {2020},
-  journaltitle = {In preparation},
-  title        = {Bounds on the heat transfer rate via passive advection},
-}
-
 @Article{Newton2018,
   author    = {Jonathan Newton},
   title     = {Evolutionary Game Theory: A Renaissance},
@@ -9795,7 +9788,7 @@
 @Article{PegoVan2021,
   author       = {Robert L. Pego and Truong-Son Van},
   date         = {2021},
-  journaltitle = {In Progress},
+  journaltitle = {In Preparation},
   title        = {On the dynamics of Multiplicative-Additive Coagulation-Fragmentation equation},
 }
 
@@ -13291,3 +13284,5 @@
   mrnumber     = {2838397},
   mrreviewer   = {Violaine Roussier-Michon},
 }
+
+@Comment{jabref-meta: databaseType:biblatex;}
