@@ -13297,4 +13297,10 @@
   keywords    = {math.AP, math.PR},
 }
 
+@Book{Newstead,
+  author = {Clive Newstead},
+  title  = {Infinite Descent},
+  url    = {https://infinitedescent.xyz/dl/infdesc.pdf},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
