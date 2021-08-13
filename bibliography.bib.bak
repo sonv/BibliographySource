@@ -13303,4 +13303,32 @@
   url    = {https://infinitedescent.xyz/dl/infdesc.pdf},
 }
 
+@Book{Boole2009,
+  author    = {Boole, George},
+  date      = {2009},
+  title     = {An investigation of the laws of thought},
+  doi       = {10.1017/CBO9780511693090.024},
+  isbn      = {978-1-108-00153-3},
+  note      = {On which are founded the mathematical theories of logic and probabilities, Reprint of the 1854 original, Previously published by Dover Publications, Inc., New York, 1957 [MR0085180]; Prometheus Books, Amherst, NY, 2003 [MR1994936]},
+  pages     = {ii+viii+425},
+  publisher = {Cambridge University Press, Cambridge},
+  series    = {Cambridge Library Collection},
+  keywords  = {01A75 (03-03 60A05)},
+  mrnumber  = {2857913},
+}
+
+@Book{WhiteheadRussell1997,
+  author    = {Whitehead, Alfred North and Russell, Bertrand},
+  date      = {1997},
+  title     = {{\it {P}rincipia mathematica} to *56},
+  doi       = {10.1017/CBO9780511623585},
+  isbn      = {0-521-62606-4},
+  note      = {Reprint of the second (1927) edition},
+  pages     = {xlvi+410},
+  publisher = {Cambridge University Press, Cambridge},
+  series    = {Cambridge Mathematical Library},
+  keywords  = {03B15 (01A75 03-03 03B10)},
+  mrnumber  = {1700771},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
