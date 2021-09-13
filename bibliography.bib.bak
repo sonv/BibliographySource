@@ -13331,4 +13331,16 @@
   mrnumber  = {1700771},
 }
 
+@Book{DoxiadisPapadimitriou2009,
+  author    = {Doxiadis, Apostolos and Papadimitriou, Christos H.},
+  date      = {2009},
+  title     = {Logicomix},
+  isbn      = {978-1-59691-452-0; 1-59691-452-1},
+  note      = {An epic search for truth, Character design and drawings by Alecos Papadatos, color by Annie Di Donna},
+  pages     = {347},
+  publisher = {Bloomsbury Press, New York},
+  keywords  = {03-03 (00A30 03A05)},
+  mrnumber  = {2884886},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
