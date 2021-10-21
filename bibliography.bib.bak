@@ -13343,4 +13343,13 @@
   mrnumber  = {2884886},
 }
 
+@Book{Sainsbury1991,
+  author    = {Sainsbury, R. M.},
+  date      = {1991},
+  title     = {Logical forms : an introduction to philosophical logic},
+  isbn      = {0631177787},
+  location  = {Oxford, UK Cambridge, Mass},
+  publisher = {B. Blackwell},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
