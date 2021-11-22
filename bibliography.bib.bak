@@ -13380,4 +13380,13 @@
   mrnumber     = {3195073},
 }
 
+@Book{Burger2013,
+  author    = {Burger, Edward},
+  date      = {2013},
+  title     = {The heart of mathematics : an invitation to effective thinking},
+  isbn      = {9781118156599},
+  location  = {Hoboken, NJ},
+  publisher = {Wiley},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
