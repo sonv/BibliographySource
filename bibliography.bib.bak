@@ -13390,7 +13390,7 @@
 }
 
 @Book{DeGroot2012,
-  author    = {DeGroot, Morris and$ Mark J. Schervish},
+  author    = {DeGroot, Morris and Mark J. Schervish},
   date      = {2012},
   title     = {Probability and statistics},
   isbn      = {9780321500465},
