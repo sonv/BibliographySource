@@ -13426,4 +13426,31 @@
   mrnumber     = {1740836},
 }
 
+@Article{MuratovShvartsman2008,
+  author       = {Muratov, Cyrill B. and Shvartsman, Stanislav Y.},
+  date         = {2008},
+  journaltitle = {Multiscale Modeling \& Simulation. A SIAM Interdisciplinary Journal},
+  title        = {Boundary homogenization for periodic arrays of absorbers},
+  doi          = {10.1137/070692832},
+  issn         = {1540-3459},
+  number       = {1},
+  pages        = {44--61},
+  volume       = {7},
+  keywords     = {35B27 (35K57 65N06 65N35)},
+  mrnumber     = {2399537},
+}
+
+@Article{BalJing2011,
+  author       = {Bal, Guillaume and Jing, Wenjia},
+  date         = {2011},
+  journaltitle = {Communications in Mathematical Sciences},
+  title        = {Corrector theory for elliptic equations in random media with singular {G}reen's function. {A}pplication to random boundaries},
+  issn         = {1539-6746},
+  number       = {2},
+  pages        = {383--411},
+  volume       = {9},
+  keywords     = {35B27 (35J25 35R60 35S15 60G60)},
+  mrnumber     = {2815677},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
