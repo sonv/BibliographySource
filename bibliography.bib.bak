@@ -13398,4 +13398,32 @@
   publisher = {Addison-Wesley},
 }
 
+@Book{FlemingSoner2006,
+  author    = {Fleming, Wendell H. and Soner, H. Mete},
+  date      = {2006},
+  title     = {Controlled {M}arkov processes and viscosity solutions},
+  edition   = {Second},
+  isbn      = {978-0387-260457; 0-387-26045-5},
+  pages     = {xviii+429},
+  publisher = {Springer, New York},
+  series    = {Stochastic Modelling and Applied Probability},
+  volume    = {25},
+  keywords  = {93-02 (49L20 49L25 60J60 90C39 91A23 91B28 93E20)},
+  mrnumber  = {2179357},
+}
+
+@Article{BelyaevChechkinGadylcprimeshin2000,
+  author       = {Belyaev, Alexander G. and Chechkin, Gregory A. and Gadyl\cprime shin, Rustem R.},
+  date         = {2000},
+  journaltitle = {SIAM Journal on Applied Mathematics},
+  title        = {Effective membrane permeability: estimates and low concentration asymptotics},
+  doi          = {10.1137/S0036139996312880},
+  issn         = {0036-1399},
+  number       = {1},
+  pages        = {84--108},
+  volume       = {60},
+  keywords     = {35B27 (41A60 76M50 76S05)},
+  mrnumber     = {1740836},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
