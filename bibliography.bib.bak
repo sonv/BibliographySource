@@ -13453,4 +13453,32 @@
   mrnumber     = {2815677},
 }
 
+@Article{BernoffLindsay2018,
+  author       = {Bernoff, Andrew J. and Lindsay, Alan E.},
+  date         = {2018},
+  journaltitle = {SIAM Journal on Applied Mathematics},
+  title        = {Numerical approximation of diffusive capture rates by planar and spherical surfaces with absorbing pores},
+  doi          = {10.1137/17M1124802},
+  issn         = {0036-1399},
+  number       = {1},
+  pages        = {266--290},
+  volume       = {78},
+  keywords     = {65N38 (35B25 35C20 35J05 35J08)},
+  mrnumber     = {3755678},
+}
+
+@Article{Mimica2016,
+  author       = {Mimica, Ante},
+  date         = {2016},
+  journaltitle = {Journal of Mathematical Analysis and Applications},
+  title        = {Exponential decay of measures and {T}auberian theorems},
+  doi          = {10.1016/j.jmaa.2016.03.042},
+  issn         = {0022-247X},
+  number       = {1},
+  pages        = {266--285},
+  volume       = {440},
+  keywords     = {40E05 (44A10 60E10 60G51 62E20)},
+  mrnumber     = {3479599},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
