@@ -13475,4 +13475,13 @@
   year      = {[2021] \copyright 2021},
 }
 
+@Article{TranVan2021,
+  author       = {Hung V. Tran and Truong-Son Van},
+  date         = {2021-02},
+  journaltitle = {Communications on Pure and Applied Mathematics},
+  title        = {Coagulation-Fragmentation Equations with Multiplicative Coagulation Kernel and Constant Fragmentation Kernel},
+  doi          = {10.1002/cpa.21979},
+  publisher    = {Wiley},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
