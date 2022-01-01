@@ -8017,9 +8017,13 @@
 
 @Book{Tran2021,
   author    = {Tran, Hung V.},
-  date      = {2021},
-  title     = {Hamilton--Jacobi equations: theory and applications},
-  publisher = {AMS Graduate Studies in Mathematics},
+  title     = {Hamilton--Jacobi Equations: Theory and Applications},
+  isbn      = {9781470465117},
+  publisher = {American Mathematical Society},
+  series    = {Graduate Studies in Mathematics},
+  url       = {https://books.google.com/books?id=evs-EAAAQBAJ},
+  lccn      = {2021002972},
+  year      = {2021},
 }
 
 @Article{TranDritschel2006,
@@ -13457,10 +13461,12 @@
   mrnumber     = {3479599},
 }
 
-@Book{Tran[2021]copyright2021,
+@Book{Tran2021,
   author    = {Tran, Hung Vinh},
+  date      = {2021},
   title     = {Hamilton-{J}acobi equations---theory and applications},
   isbn      = {978-1-4704-6511-7},
+  location  = {Providence, Rhode Island},
   pages     = {xiv+322},
   publisher = {American Mathematical Society, Providence, RI},
   series    = {Graduate Studies in Mathematics},
