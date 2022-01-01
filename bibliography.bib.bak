@@ -8698,9 +8698,13 @@
   journaltitle = {Communications in Mathematical Sciences},
   title        = {Large time behavior for a Hamilton-Jacobi equation in a critical Coagulation-Fragmentation model},
   doi          = {10.4310/CMS.2021.v19.n2.a8},
+  number       = {2},
+  pages        = {495--512},
+  volume       = {19},
   abstract     = {We study the large time behavior of the sublinear viscosity solution to a singular Hamilton-Jacobi equation that appears in a critical Coagulation-Fragmentation model with multiplicative coagulation and constant fragmentation kernels. Our results include complete characterizations of stationary solutions and optimal conditions to guarantee large time convergence. In particular, we obtain convergence results under certain natural conditions on the initial data, and a nonconvergence result when such conditions fail.},
   file         = {:MitakeTranVan2020 - Large Time Behavior for a Hamilton Jacobi Equation in a Critical Coagulation Fragmentation Model.pdf:PDF},
   keywords     = {math.AP, 35B40, 35D40, 35F21, 44A10, 45J05, 49L20, 49L25},
+  publisher    = {International Press of Boston},
 }
 
 @Article{DegondLiuPego2017,
@@ -9736,15 +9740,6 @@
   volume       = {17},
   adsnote      = {Provided by the SAO/NASA Astrophysics Data System},
   adsurl       = {https://ui.adsabs.harvard.edu/abs/1916ZPhy...17..557S},
-}
-
-@Article{Laurencot2019,
-  author       = {Philippe Laurençot},
-  date         = {2019},
-  journaltitle = {arXiv:1901.08313 [math.AP]},
-  title        = {Mass-conserving solutions to coagulation-fragmentation equations with balanced growth},
-  url          = {https://arxiv.org/abs/1901.08313},
-  abstract     = {A specific class of coagulation and fragmentation coefficients is considered for which the strength of the coagulation is balanced by that of the multiple fragmentation. Existence and uniqueness of mass-conserving solutions are proved when the initial total mass is sufficiently small.},
 }
 
 @Book{LadyzenskajaSolonnikovUralceva1968,
@@ -13482,6 +13477,20 @@
   title        = {Coagulation-Fragmentation Equations with Multiplicative Coagulation Kernel and Constant Fragmentation Kernel},
   doi          = {10.1002/cpa.21979},
   publisher    = {Wiley},
+}
+
+@Article{Laurencot2020,
+  author       = {Lauren\c{c}ot, Philippe},
+  date         = {2020},
+  journaltitle = {Colloquium Mathematicum},
+  title        = {Mass-conserving solutions to coagulation-fragmentation equations with balanced growth},
+  doi          = {10.4064/cm7827-2-2019},
+  issn         = {0010-1354},
+  number       = {1},
+  pages        = {127--155},
+  volume       = {159},
+  keywords     = {45K05},
+  mrnumber     = {4036722},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
