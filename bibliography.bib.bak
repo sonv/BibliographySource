@@ -13488,8 +13488,9 @@
   mrnumber     = {4036722},
 }
 
-@Article{,
+@Article{Calder2021,
   author = {Jeff Calder},
+  date   = {2021},
   title  = {Math 5467: Introduction to the Mathematicsof Image and Data Analysis},
   url    = {https://www-users.cse.umn.edu/~jwcalder/5467S21/5467Notes.pdf},
 }
