@@ -13495,4 +13495,16 @@
   url    = {https://www-users.cse.umn.edu/~jwcalder/5467S21/5467Notes.pdf},
 }
 
+@Book{BoydVandenberghe2004,
+  author    = {Boyd, Stephen and Vandenberghe, Lieven},
+  date      = {2004},
+  title     = {Convex optimization},
+  doi       = {10.1017/CBO9780511804441},
+  isbn      = {0-521-83378-7},
+  pages     = {xiv+716},
+  publisher = {Cambridge University Press, Cambridge},
+  keywords  = {90-01 (90C05 90C25 90C46 90C51)},
+  mrnumber  = {2061575},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
