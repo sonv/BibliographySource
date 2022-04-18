@@ -13540,4 +13540,18 @@
   mrnumber     = {1339672},
 }
 
+@Article{FiloLuckhaus2000,
+  author       = {Filo, J\'{a}n and Luckhaus, Stephan},
+  date         = {2000},
+  journaltitle = {Journal of the European Mathematical Society (JEMS)},
+  title        = {Homogenization of a boundary condition for the heat equation},
+  doi          = {10.1007/s100970000022},
+  issn         = {1435-9855},
+  number       = {3},
+  pages        = {217--258},
+  volume       = {2},
+  keywords     = {35B27 (35C20 35K20)},
+  mrnumber     = {1776938},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
