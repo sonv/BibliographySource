@@ -13567,4 +13567,32 @@
   mrnumber  = {3559742},
 }
 
+@Article{MitakeSiconolfiTranYamada2016,
+  author       = {Mitake, H. and Siconolfi, A. and Tran, H. V. and Yamada, N.},
+  date         = {2016},
+  journaltitle = {SIAM Journal on Mathematical Analysis},
+  title        = {A {L}agrangian approach to weakly coupled {H}amilton-{J}acobi systems},
+  doi          = {10.1137/15M1010841},
+  issn         = {0036-1410},
+  number       = {2},
+  pages        = {821--846},
+  volume       = {48},
+  keywords     = {35F21 (35F50 49L25)},
+  mrnumber     = {3466199},
+}
+
+@Article{PennacchioSavareColliFranzone2005,
+  author       = {Pennacchio, Micol and Savar\'{e}, Giuseppe and Colli Franzone, Piero},
+  date         = {2005},
+  journaltitle = {SIAM Journal on Mathematical Analysis},
+  title        = {Multiscale modeling for the bioelectric activity of the heart},
+  doi          = {10.1137/040615249},
+  issn         = {0036-1410},
+  number       = {4},
+  pages        = {1333--1370},
+  volume       = {37},
+  keywords     = {35B27 (35K57 35Q80 92C30 93A30)},
+  mrnumber     = {2192297},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
