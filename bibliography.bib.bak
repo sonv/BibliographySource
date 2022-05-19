@@ -1,17 +1,3 @@
-@article{AcerbiChiadoPiatDalMasoPercivale1992,
-  title = {An Extension Theorem from Connected Sets, and Homogenization in General Periodic Domains},
-  author = {Acerbi, E. and Chiad\`o Piat, V. and Dal Maso, G. and Percivale, D.},
-  date = {1992},
-  journaltitle = {Nonlinear Analysis. Theory, Methods \& Applications. An International Multidisciplinary Journal. Series A: Theory and Methods},
-  shortjournal = {Nonlinear Analysis},
-  volume = {18},
-  pages = {481--496},
-  issn = {0362-546X},
-  doi = {10.1016/0362-546X(92)90015-7},
-  mrnumber = {1152723 (93a:35014)},
-  number = {5}
-}
-
 @book{AdamsFournier2003,
   title = {Sobolev Spaces},
   author = {Adams, Robert A. and Fournier, John J. F.},
@@ -13593,6 +13579,21 @@
   volume       = {37},
   keywords     = {35B27 (35K57 35Q80 92C30 93A30)},
   mrnumber     = {2192297},
+}
+
+@Article{AcerbiChiadoPiatDalMasoPercivale1992,
+  author       = {Acerbi, E. and Chiad\`o Piat, V. and Dal Maso, G. and Percivale, D.},
+  date         = {1992},
+  journaltitle = {Nonlinear Analysis. Theory, Methods \& Applications. An International Multidisciplinary Journal. Series A: Theory and Methods},
+  title        = {An Extension Theorem from Connected Sets, and Homogenization in General Periodic Domains},
+  doi          = {10.1016/0362-546X(92)90015-7},
+  issn         = {0362-546X},
+  number       = {5},
+  pages        = {481--496},
+  volume       = {18},
+  keywords     = {35B27 (35A15 46E35)},
+  mrnumber     = {1152723 (93a:35014)},
+  shortjournal = {Nonlinear Analysis},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
