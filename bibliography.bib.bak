@@ -13631,4 +13631,18 @@
   url    = {https://www.math.ucdavis.edu/~hunter/notes/asy.pdf},
 }
 
+@Book{Neu2015,
+  author    = {Neu, John C.},
+  date      = {2015},
+  title     = {Singular perturbation in the physical sciences},
+  doi       = {10.1090/gsm/167},
+  isbn      = {978-1-4704-2555-5},
+  pages     = {xiv+326},
+  publisher = {American Mathematical Society, Providence, RI},
+  series    = {Graduate Studies in Mathematics},
+  volume    = {167},
+  keywords  = {00A69 (34E13 34E15 35B25 35C20 70K30 76-02)},
+  mrnumber  = {3410360},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
