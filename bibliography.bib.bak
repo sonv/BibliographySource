@@ -13596,4 +13596,18 @@
   shortjournal = {Nonlinear Analysis},
 }
 
+@Article{CioranescuPaulin1979,
+  author       = {Cioranescu, Do\"{\i}na and Paulin, Jeannine Saint Jean},
+  date         = {1979},
+  journaltitle = {Journal of Mathematical Analysis and Applications},
+  title        = {Homogenization in open sets with holes},
+  doi          = {10.1016/0022-247X(79)90211-7},
+  issn         = {0022-247X},
+  number       = {2},
+  pages        = {590--607},
+  volume       = {71},
+  keywords     = {35B40 (35J65 49D50)},
+  mrnumber     = {548785},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
