@@ -13645,4 +13645,17 @@
   mrnumber  = {3410360},
 }
 
+@Book{Keener2000,
+  author    = {Keener, James P.},
+  date      = {2000},
+  title     = {Principles of applied mathematics},
+  edition   = {Revised},
+  isbn      = {0-7382-0129-4},
+  note      = {Transformation and approximation},
+  pages     = {xx+603},
+  publisher = {Perseus Books, Advanced Book Program, Cambridge, MA},
+  keywords  = {00A05},
+  mrnumber  = {1741517},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
