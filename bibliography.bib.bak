@@ -13658,4 +13658,46 @@
   mrnumber  = {1741517},
 }
 
+@Book{Murray1984,
+  author    = {Murray, J. D.},
+  date      = {1984},
+  title     = {Asymptotic analysis},
+  doi       = {10.1007/978-1-4612-1122-8},
+  edition   = {Second},
+  isbn      = {0-387-90937-0},
+  pages     = {vii+164},
+  publisher = {Springer-Verlag, New York},
+  series    = {Applied Mathematical Sciences},
+  volume    = {48},
+  keywords  = {34E15 (34E20 41A60)},
+  mrnumber  = {740864},
+}
+
+@Article{Norris2000,
+  author       = {Norris, J. R.},
+  date         = {2000},
+  journaltitle = {Communications in Mathematical Physics},
+  title        = {Cluster coagulation},
+  doi          = {10.1007/s002200050026},
+  issn         = {0010-3616},
+  number       = {2},
+  pages        = {407--435},
+  volume       = {209},
+  keywords     = {82C99 (60K35)},
+  mrnumber     = {1737990},
+}
+
+@Article{McLeod1964,
+  author       = {McLeod, J. B.},
+  date         = {1964},
+  journaltitle = {Proceedings of the London Mathematical Society. Third Series},
+  title        = {On the scalar transport equation},
+  doi          = {10.1112/plms/s3-14.3.445},
+  issn         = {0024-6115},
+  pages        = {445--458},
+  volume       = {14},
+  keywords     = {45.45},
+  mrnumber     = {162110},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
