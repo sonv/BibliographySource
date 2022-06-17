@@ -13700,4 +13700,18 @@
   mrnumber     = {162110},
 }
 
+@Article{FournierLaurencot2006,
+  author       = {Fournier, Nicolas and Lauren\c{c}ot, Philippe},
+  date         = {2006},
+  journaltitle = {Journal of Functional Analysis},
+  title        = {Well-posedness of {S}moluchowski's coagulation equation for a class of homogeneous kernels},
+  doi          = {10.1016/j.jfa.2005.07.013},
+  issn         = {0022-1236},
+  number       = {2},
+  pages        = {351--379},
+  volume       = {233},
+  keywords     = {45K05 (82C05)},
+  mrnumber     = {2214581},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
