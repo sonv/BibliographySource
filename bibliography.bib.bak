@@ -1838,11 +1838,20 @@
   publisher = {{ProQuest LLC, Ann Arbor, MI}}
 }
 
-@article{CohnIyerNolenPego2018,
-  title = {Anomalous Diffusion in One and Two Dimensional Combs},
-  author = {Cohn, S. and Iyer, G. and Nolen, J. and Pego, R. L.},
-  date = {2018-09},
-  journaltitle = {ArXiv e-prints}
+@Article{MR4195557,
+  author   = {Cohn, Samuel and Iyer, Gautam and Nolen, James and Pego, Robert L.},
+  title    = {Anomalous diffusion in comb-shaped domains and graphs},
+  doi      = {10.4310/CMS.2020.v18.n7.a2},
+  issn     = {1539-6746},
+  number   = {7},
+  pages    = {1815--1862},
+  url      = {https://doi.org/10.4310/CMS.2020.v18.n7.a2},
+  volume   = {18},
+  fjournal = {Communications in Mathematical Sciences},
+  journal  = {Commun. Math. Sci.},
+  mrclass  = {60K50 (35B27 60G22)},
+  mrnumber = {4195557},
+  year     = {2020},
 }
 
 @Article{ColasMcWilliamsCapetKurian2012,
@@ -13727,6 +13736,20 @@
   mrclass    = {35J25 (60J60)},
   mrnumber   = {1022929},
   mrreviewer = {Ross Pinsky},
+}
+
+@Book{IkedaWatanabe1989,
+  author    = {Ikeda, Nobuyuki and Watanabe, Shinzo},
+  date      = {1989},
+  title     = {Stochastic differential equations and diffusion processes},
+  edition   = {Second},
+  isbn      = {0-444-87378-3},
+  pages     = {xvi+555},
+  publisher = {North-Holland Publishing Co., Amsterdam; Kodansha, Ltd., Tokyo},
+  series    = {North-Holland Mathematical Library},
+  volume    = {24},
+  mrclass   = {60H10 (58G32 60J60)},
+  mrnumber  = {1011252},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
