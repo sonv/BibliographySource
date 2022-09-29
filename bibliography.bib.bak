@@ -1838,7 +1838,7 @@
   publisher = {{ProQuest LLC, Ann Arbor, MI}}
 }
 
-@Article{MR4195557,
+@Article{CohnIyerNolenPego2020,
   author   = {Cohn, Samuel and Iyer, Gautam and Nolen, James and Pego, Robert L.},
   title    = {Anomalous diffusion in comb-shaped domains and graphs},
   doi      = {10.4310/CMS.2020.v18.n7.a2},
@@ -13750,6 +13750,17 @@
   volume    = {24},
   mrclass   = {60H10 (58G32 60J60)},
   mrnumber  = {1011252},
+}
+
+@Book{HeideggerHeim1984,
+  author    = {Heidegger, M. and Heim, M.},
+  date      = {1984},
+  title     = {The Metaphysical Foundations of Logic},
+  isbn      = {9780253337832},
+  publisher = {Indiana University Press},
+  series    = {Midland book},
+  url       = {https://books.google.com.vn/books?id=NpLPePqZYwEC},
+  lccn      = {lc83048649},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
