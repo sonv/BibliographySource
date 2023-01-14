@@ -13763,4 +13763,40 @@
   lccn      = {lc83048649},
 }
 
+@Article{Harman1984,
+  author       = {Gilbert Harman},
+  date         = {1984},
+  journaltitle = {Synthese},
+  title        = {Logic and Reasoning},
+  issn         = {00397857, 15730964},
+  number       = {1},
+  pages        = {107--127},
+  url          = {http://www.jstor.org/stable/20116019},
+  urldate      = {2022-09-29},
+  volume       = {60},
+  publisher    = {Springer},
+}
+
+@Article{GuzmanLastraLoewenMathijssen2021,
+  author       = {Francisca Guzm{\'{a}}n-Lastra and Hartmut Löwen and Arnold J. T. M. Mathijssen},
+  date         = {2021-03},
+  journaltitle = {Nature Communications},
+  title        = {Active carpets drive non-equilibrium diffusion and enhanced molecular fluxes},
+  doi          = {10.1038/s41467-021-22029-y},
+  number       = {1},
+  volume       = {12},
+  publisher    = {Springer Science and Business Media {LLC}},
+}
+
+@Article{GuzmanLastraLoewenMathijssen2021a,
+  author       = {Francisca Guzm{\'{a}}n-Lastra and Hartmut Löwen and Arnold J. T. M. Mathijssen},
+  date         = {2021-03},
+  journaltitle = {Nature Communications},
+  title        = {Active carpets drive non-equilibrium diffusion and enhanced molecular fluxes},
+  doi          = {10.1038/s41467-021-22029-y},
+  number       = {1},
+  volume       = {12},
+  publisher    = {Springer Science and Business Media {LLC}},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
