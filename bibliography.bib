@@ -8,6 +8,24 @@
   file = {/Users/sonvan/Zotero/storage/JQZAS28G/S0036141002403973.html}
 }
 
+@incollection{BassUsingStochastic1989,
+  title = {Using Stochastic Comparison to Estimate {{Green}}'s Functions},
+  booktitle = {Séminaire de {{Probabilités XXIII}}},
+  author = {Bass, Richard F.},
+  editor = {Azéma, Jacques and Yor, Marc and Meyer, Paul André},
+  date = {1989},
+  volume = {1372},
+  pages = {421--425},
+  publisher = {Springer Berlin Heidelberg},
+  location = {Berlin, Heidelberg},
+  doi = {10.1007/BFb0083991},
+  url = {http://link.springer.com/10.1007/BFb0083991},
+  urldate = {2024-07-01},
+  isbn = {978-3-540-51191-5 978-3-540-46176-0},
+  langid = {english},
+  file = {/Users/sonvan/Zotero/storage/6ZCB2EY9/Bass - 1989 - Using stochastic comparison to estimate Green's fu.pdf}
+}
+
 @book{BensoussanLionsPapanicolaouAsymptoticAnalysis1978,
   title = {Asymptotic {{Analysis}} for {{Periodic Structures}}},
   author = {Bensoussan, Alain and Lions, Jacques-Louis and Papanicolaou, George},
@@ -6212,6 +6230,22 @@
   mrnumber = {533339}
 }
 
+@online{KendallPantoneManickavasagamBengioScellierTrainingEndtoEnd2020,
+  title = {Training {{End-to-End Analog Neural Networks}} with {{Equilibrium Propagation}}},
+  author = {Kendall, Jack and Pantone, Ross and Manickavasagam, Kalpana and Bengio, Yoshua and Scellier, Benjamin},
+  date = {2020-06-09},
+  eprint = {2006.01981},
+  eprinttype = {arXiv},
+  eprintclass = {cs},
+  url = {http://arxiv.org/abs/2006.01981},
+  urldate = {2024-06-29},
+  abstract = {We introduce a principled method to train end-to-end analog neural networks by stochastic gradient descent. In these analog neural networks, the weights to be adjusted are implemented by the conductances of programmable resistive devices such as memristors [Chua, 1971], and the nonlinear transfer functions (or ‘activation functions’) are implemented by nonlinear components such as diodes. We show mathematically that a class of analog neural networks (called nonlinear resistive networks) are energy-based models: they possess an energy function as a consequence of Kirchhoff’s laws governing electrical circuits. This property enables us to train them using the Equilibrium Propagation framework [Scellier and Bengio, 2017]. Our update rule for each conductance, which is local and relies solely on the voltage drop across the corresponding resistor, is shown to compute the gradient of the loss function. Our numerical simulations, which use the SPICEbased Spectre simulation framework to simulate the dynamics of electrical circuits, demonstrate training on the MNIST classification task, performing comparably or better than equivalent-size software-based neural networks. Our work can guide the development of a new generation of ultra-fast, compact and low-power neural networks supporting on-chip learning.},
+  langid = {english},
+  pubstate = {prepublished},
+  keywords = {Computer Science - Machine Learning,Computer Science - Neural and Evolutionary Computing},
+  file = {/Users/sonvan/Documents/References/Papers/Learning/Kendall et al. - 2020 - Training End-to-End Analog Neural Networks with Eq.pdf}
+}
+
 @article{KermackMcKendrickWalkerContributionMathematical1927,
   title = {A Contribution to the Mathematical Theory of Epidemics},
   author = {Kermack, William Ogilvy and McKendrick, A. G. and Walker, Gilbert Thomas},
@@ -9948,7 +9982,7 @@
   urldate = {2024-06-07},
   abstract = {Using Zvonkin’s transform and the Poisson equation in Rd with a parameter, we prove the averaging principle for stochastic differential equations with timedependent Ho¨lder continuous coefficients. Sharp convergence rates with order (α ∧ 1)/2 in the strong sense and (α/2) ∧ 1 in the weak sense are obtained, considerably extending the existing results in the literature. Moreover, we prove that the convergence of the multi-scale system to the effective equation depends only on the regularity of the coefficients of the equation for the slow variable, and does not depend on the regularity of the coefficients of the equation for the fast component.},
   langid = {english},
-  pubstate = {preprint},
+  pubstate = {prepublished},
   keywords = {Mathematics - Probability},
   file = {/Users/sonvan/Documents/References/Papers/SingularPerturbation/Röckner et al. - 2019 - Strong and weak convergence in the averaging princ.pdf}
 }
@@ -10235,6 +10269,47 @@
   urldate = {2024-06-17},
   langid = {english},
   file = {/Users/sonvan/Documents/References/Papers/Learning/Scellier and Bengio - 2017 - Equilibrium Propagation Bridging the Gap between .pdf}
+}
+
+@online{ScellierBengioEquilibriumPropagation2017a,
+  title = {Equilibrium {{Propagation}}: {{Bridging}} the {{Gap Between Energy-Based Models}} and {{Backpropagation}}},
+  shorttitle = {Equilibrium {{Propagation}}},
+  author = {Scellier, Benjamin and Bengio, Yoshua},
+  date = {2017-03-28},
+  eprint = {1602.05179},
+  eprinttype = {arXiv},
+  eprintclass = {cs},
+  url = {http://arxiv.org/abs/1602.05179},
+  urldate = {2024-06-29},
+  abstract = {We introduce Equilibrium Propagation, a learning framework for energy-based models. It involves only one kind of neural computation, performed in both the first phase (when the prediction is made) and the second phase of training (after the target or prediction error is revealed). Although this algorithm computes the gradient of an objective function just like Backpropagation, it does not need a special computation or circuit for the second phase, where errors are implicitly propagated. Equilibrium Propagation shares similarities with Contrastive Hebbian Learning and Contrastive Divergence while solving the theoretical issues of both algorithms: our algorithm computes the gradient of a well defined objective function. Because the objective function is defined in terms of local perturbations, the second phase of Equilibrium Propagation corresponds to only nudging the prediction (fixed point, or stationary distribution) towards a configuration that reduces prediction error. In the case of a recurrent multi-layer supervised network, the output units are slightly nudged towards their target in the second phase, and the perturbation introduced at the output layer propagates backward in the hidden layers. We show that the signal ’back-propagated’ during this second phase corresponds to the propagation of error derivatives and encodes the gradient of the objective function, when the synaptic update corresponds to a standard form of spike-timing dependent plasticity. This work makes it more plausible that a mechanism similar to Backpropagation could be implemented by brains, since leaky integrator neural computation performs both inference and error back-propagation in our model. The only local difference between the two phases is whether synaptic changes are allowed or not. We also show experimentally that multi-layer recurrently connected networks with 1, 2 and 3 hidden layers can be trained by Equilibrium Propagation on the permutation-invariant MNIST task.},
+  langid = {english},
+  pubstate = {prepublished},
+  keywords = {Computer Science - Machine Learning},
+  file = {/Users/sonvan/Documents/References/Papers/Learning/Scellier and Bengio - 2017 - Equilibrium Propagation Bridging the Gap Between  2.pdf}
+}
+
+@online{ScellierBengioEquivalenceEquilibrium2018,
+  title = {Equivalence of {{Equilibrium Propagation}} and {{Recurrent Backpropagation}}},
+  author = {Scellier, Benjamin and Bengio, Yoshua},
+  date = {2018-05-22},
+  eprint = {1711.08416},
+  eprinttype = {arXiv},
+  eprintclass = {cs},
+  url = {http://arxiv.org/abs/1711.08416},
+  urldate = {2024-06-30},
+  abstract = {Recurrent Backpropagation and Equilibrium Propagation are supervised learning algorithms for fixed point recurrent neural networks which differ in their second phase. In the first phase, both algorithms converge to a fixed point which corresponds to the configuration where the prediction is made. In the second phase, Equilibrium Propagation relaxes to another nearby fixed point corresponding to smaller prediction error, whereas Recurrent Backpropagation uses a side network to compute error derivatives iteratively.},
+  langid = {english},
+  pubstate = {prepublished},
+  keywords = {Computer Science - Machine Learning},
+  file = {/Users/sonvan/Documents/References/Papers/Learning/Scellier and Bengio - 2018 - Equivalence of Equilibrium Propagation and Recurre.pdf}
+}
+
+@article{ScellierErnoultKendallKumarEnergyBasedLearning,
+  title = {Energy-{{Based Learning Algorithms}} for {{Analog Computing}}: {{A Comparative Study}}},
+  author = {Scellier, Benjamin and Ernoult, Maxence and Kendall, Jack and Kumar, Suhas},
+  abstract = {Energy-based learning algorithms have recently gained a surge of interest due to their compatibility with analog (post-digital) hardware. Existing algorithms include contrastive learning (CL), equilibrium propagation (EP) and coupled learning (CpL), all consisting in contrasting two states, and differing in the type of perturbation used to obtain the second state from the first one. However, these algorithms have never been explicitly compared on equal footing with same models and datasets, making it difficult to assess their scalability and decide which one to select in practice. In this work, we carry out a comparison of seven learning algorithms, namely CL and different variants of EP and CpL depending on the signs of the perturbations. Specifically, using these learning algorithms, we train deep convolutional Hopfield networks (DCHNs) on five vision tasks (MNIST, F-MNIST, SVHN, CIFAR-10 and CIFAR-100). We find that, while all algorithms yield comparable performance on MNIST, important differences in performance arise as the difficulty of the task increases. Our key findings reveal that negative perturbations are better than positive ones, and highlight the centered variant of EP (which uses two perturbations of opposite sign) as the best-performing algorithm. We also endorse these findings with theoretical arguments. Additionally, we establish new SOTA results with DCHNs on all five datasets, both in performance and speed. In particular, our DCHN simulations are 13.5 times faster with respect to Laborieux et al. [2021], which we achieve thanks to the use of a novel energy minimisation algorithm based on asynchronous updates, combined with reduced precision (16 bits).},
+  langid = {english},
+  file = {/Users/sonvan/Documents/References/Papers/Learning/Scellier et al. - Energy-Based Learning Algorithms for Analog Comput.pdf}
 }
 
 @book{SchillingSongVondracekBernsteinFunctions2010,
@@ -10987,7 +11062,7 @@
   urldate = {2024-06-18},
   abstract = {Physical networks can develop diverse responses, or functions, by design, evolution or learning. We focus on electrical networks of nodes connected by resistive edges. Such networks can learn by adapting edge conductances to lower a cost function that penalizes deviations from a desired response. The network must also satisfy Kirchhoff's law, balancing currents at nodes, or, equivalently, minimizing total power dissipation by adjusting node voltages. The adaptation is thus a double optimization process, in which a cost function is minimized with respect to conductances, while dissipated power is minimized with respect to node voltages. Here we study how this physical adaptation couples the cost landscape, the landscape of the cost function in the high-dimensional space of edge conductances, to the physical landscape, the dissipated power in the high-dimensional space of node voltages. We show how adaptation links the physical and cost Hessian matrices, suggesting that the physical response of networks to perturbations holds significant information about the functions to which they are adapted.},
   langid = {english},
-  pubstate = {preprint},
+  pubstate = {prepublished},
   keywords = {Condensed Matter - Disordered Systems and Neural Networks,Condensed Matter - Soft Condensed Matter,Condensed Matter - Statistical Mechanics},
   file = {/Users/sonvan/Documents/References/Papers/Learning/Stern et al. - 2024 - Physical networks become what they learn.pdf;/Users/sonvan/Zotero/storage/WRVF47NA/Stern et al. - 2024 - Physical networks become what they learn.pdf;/Users/sonvan/Zotero/storage/C3SR6GE9/2406.html}
 }
@@ -11008,6 +11083,23 @@
   urldate = {2024-06-17},
   langid = {english},
   file = {/Users/sonvan/Documents/References/Papers/Learning/Stern et al. - 2021 - Supervised Learning in Physical Networks From Mac.pdf}
+}
+
+@article{SternLiuBalasubramanianPhysicalEffects2024,
+  title = {Physical Effects of Learning},
+  author = {Stern, Menachem and Liu, Andrea J. and Balasubramanian, Vijay},
+  date = {2024-02-21},
+  journaltitle = {Physical Review E},
+  shortjournal = {Phys. Rev. E},
+  volume = {109},
+  number = {2},
+  pages = {024311},
+  issn = {2470-0045, 2470-0053},
+  doi = {10.1103/PhysRevE.109.024311},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.109.024311},
+  urldate = {2024-06-28},
+  langid = {english},
+  file = {/Users/sonvan/Documents/References/Papers/Learning/Stern et al. - 2024 - Physical effects of learning.pdf}
 }
 
 @article{StewartAlgebraicIntegers1978,
@@ -11832,6 +11924,14 @@
   isbn = {0-444-51288-8},
   mrnumber = {1972224 (2004c:47088)},
   pagetotal = {xii+373}
+}
+
+@article{WalkerCorrectThermodynamic,
+  title = {On {{The Correct Thermo-dynamic Potential}} for {{Electro-static Dielectric Energy}}},
+  author = {Walker, Shawn W},
+  abstract = {Various types of equilibrium processes involve electric fields. In some cases, the electrical energy appears to be negative (e.g. if the voltage is fixed by an external source). This paper explains how to derive the correct thermo-dynamic potential for electro-static phenomena, whether the voltage is fixed, or the charge is fixed, or some combination is fixed. In particular, we explain, in complete detail, why fixing the voltage introduces “a minus sign” in the electrical energy.},
+  langid = {english},
+  file = {/Users/sonvan/Documents/References/Papers/Kirchhoff/Walker - On The Correct Thermo-dynamic Potential for Electr.pdf}
 }
 
 @book{WaltersIntroductionErgodic1982,
